@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="D:\Users\humea\test2\LCT_Barriere_Horaire_BETA\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="1" lineNum="9" parent="globals/Background" pc="268435456" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="1" lineNum="10" parent="globals/Background" pc="268435460" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="1" lineNum="14" parent="globals/Background" pc="268435481" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="2" lineNum="17" parent="globals/Background" pc="268435502" symbol="setColor"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="2" lineNum="18" parent="globals/Background" pc="268435506" symbol="setColor"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="3" lineNum="21" parent="globals/Background" pc="268435517" symbol="draw"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="3" lineNum="22" parent="globals/Background" pc="268435521" symbol="draw"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="3" lineNum="23" parent="globals/Background" pc="268435553" symbol="draw"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="4" lineNum="5" parent="globals/Background" pc="268454664" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHBackground.mc" id="4" lineNum="5" parent="globals/Background" pc="268454664" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="13" parent="globals/TimePicker" pc="268435566" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="15" parent="globals/TimePicker" pc="268435570" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="18" parent="globals/TimePicker" pc="268435672" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="20" parent="globals/TimePicker" pc="268435672" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="21" parent="globals/TimePicker" pc="268435680" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="23" parent="globals/TimePicker" pc="268435767" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="27" parent="globals/TimePicker" pc="268435880" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="29" parent="globals/TimePicker" pc="268435967" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="30" parent="globals/TimePicker" pc="268435991" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="31" parent="globals/TimePicker" pc="268436033" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="32" parent="globals/TimePicker" pc="268436075" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="35" parent="globals/TimePicker" pc="268436129" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="36" parent="globals/TimePicker" pc="268436132" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="6" lineNum="37" parent="globals/TimePicker" pc="268436135" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="7" lineNum="40" parent="globals/TimePicker" pc="268436139" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="7" lineNum="41" parent="globals/TimePicker" pc="268436143" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="7" lineNum="42" parent="globals/TimePicker" pc="268436155" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="45" parent="globals/TimePicker" pc="268436176" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="46" parent="globals/TimePicker" pc="268436180" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="47" parent="globals/TimePicker" pc="268436228" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="48" parent="globals/TimePicker" pc="268436231" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="49" parent="globals/TimePicker" pc="268436238" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="51" parent="globals/TimePicker" pc="268436238" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="52" parent="globals/TimePicker" pc="268436245" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="54" parent="globals/TimePicker" pc="268436250" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="57" parent="globals/TimePicker" pc="268436259" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="58" parent="globals/TimePicker" pc="268436277" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="59" parent="globals/TimePicker" pc="268436284" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="62" parent="globals/TimePicker" pc="268436313" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="66" parent="globals/TimePicker" pc="268436319" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="67" parent="globals/TimePicker" pc="268436326" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="71" parent="globals/TimePicker" pc="268436367" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="72" parent="globals/TimePicker" pc="268436370" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="73" parent="globals/TimePicker" pc="268436373" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="8" lineNum="74" parent="globals/TimePicker" pc="268436376" symbol="splitStoredTime"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="9" lineNum="11" parent="globals/TimePicker" pc="268454645" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="9" lineNum="11" parent="globals/TimePicker" pc="268454645" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="10" lineNum="80" parent="globals/TimePickerDelegate" pc="268436380" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="10" lineNum="81" parent="globals/TimePickerDelegate" pc="268436384" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="10" lineNum="83" parent="globals/TimePickerDelegate" pc="268436402" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="11" lineNum="86" parent="globals/TimePickerDelegate" pc="268436413" symbol="onCancel"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="11" lineNum="87" parent="globals/TimePickerDelegate" pc="268436417" symbol="onCancel"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="90" parent="globals/TimePickerDelegate" pc="268436446" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="91" parent="globals/TimePickerDelegate" pc="268436450" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="92" parent="globals/TimePickerDelegate" pc="268436492" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="93" parent="globals/TimePickerDelegate" pc="268436513" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="95" parent="globals/TimePickerDelegate" pc="268436536" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="98" parent="globals/TimePickerDelegate" pc="268436556" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="99" parent="globals/TimePickerDelegate" pc="268436559" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="12" lineNum="100" parent="globals/TimePickerDelegate" pc="268436562" symbol="onAccept"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="13" lineNum="78" parent="globals/TimePickerDelegate" pc="268454501" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Picker\\TimePicker.mc" id="13" lineNum="78" parent="globals/TimePickerDelegate" pc="268454501" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="15" lineNum="9" parent="globals/BHApp" pc="268436591" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="15" lineNum="10" parent="globals/BHApp" pc="268436595" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="15" lineNum="12" parent="globals/BHApp" pc="268436613" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="16" lineNum="16" parent="globals/BHApp" pc="268436644" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="16" lineNum="17" parent="globals/BHApp" pc="268436648" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="17" lineNum="21" parent="globals/BHApp" pc="268436667" symbol="onStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="17" lineNum="22" parent="globals/BHApp" pc="268436671" symbol="onStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="18" lineNum="26" parent="globals/BHApp" pc="268436690" symbol="getInitialView"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="18" lineNum="27" parent="globals/BHApp" pc="268436694" symbol="getInitialView"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="18" lineNum="28" parent="globals/BHApp" pc="268436707" symbol="getInitialView"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="18" lineNum="30" parent="globals/BHApp" pc="268436740" symbol="getInitialView"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="19" lineNum="35" parent="globals/BHApp" pc="268436764" symbol="getSettingsView"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="19" lineNum="36" parent="globals/BHApp" pc="268436768" symbol="getSettingsView"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="19" lineNum="37" parent="globals/BHApp" pc="268436798" symbol="getSettingsView"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="20" lineNum="41" parent="globals/BHApp" pc="268436860" symbol="onSettingsChanged"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="20" lineNum="42" parent="globals/BHApp" pc="268436864" symbol="onSettingsChanged"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="20" lineNum="44" parent="globals/BHApp" pc="268436877" symbol="onSettingsChanged"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="20" lineNum="46" parent="globals/BHApp" pc="268436905" symbol="onSettingsChanged"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="21" lineNum="4" parent="globals/BHApp" pc="268454607" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHApp.mc" id="21" lineNum="4" parent="globals/BHApp" pc="268454607" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="6" parent="globals/BHMenu" pc="268436927" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="8" parent="globals/BHMenu" pc="268436931" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="10" parent="globals/BHMenu" pc="268436950" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="12" parent="globals/BHMenu" pc="268436988" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="13" parent="globals/BHMenu" pc="268437010" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="14" parent="globals/BHMenu" pc="268437032" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="16" parent="globals/BHMenu" pc="268437039" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="17" parent="globals/BHMenu" pc="268437047" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="19" parent="globals/BHMenu" pc="268437087" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="22" parent="globals/BHMenu" pc="268437124" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="27" parent="globals/BHMenu" pc="268437235" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="32" parent="globals/BHMenu" pc="268437325" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="36" parent="globals/BHMenu" pc="268437435" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="23" lineNum="43" parent="globals/BHMenu" pc="268437618" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="24" lineNum="50" parent="globals/BHMenu" pc="268437690" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="24" lineNum="51" parent="globals/BHMenu" pc="268437694" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="24" lineNum="52" parent="globals/BHMenu" pc="268437707" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="24" lineNum="53" parent="globals/BHMenu" pc="268437717" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="24" lineNum="54" parent="globals/BHMenu" pc="268437730" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="24" lineNum="55" parent="globals/BHMenu" pc="268437757" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="25" lineNum="59" parent="globals/BHMenu" pc="268437761" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="25" lineNum="61" parent="globals/BHMenu" pc="268437765" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="25" lineNum="62" parent="globals/BHMenu" pc="268437808" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="25" lineNum="63" parent="globals/BHMenu" pc="268437863" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="25" lineNum="64" parent="globals/BHMenu" pc="268437873" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="25" lineNum="65" parent="globals/BHMenu" pc="268437880" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="26" lineNum="5" parent="globals/BHMenu" pc="268454539" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenu.mc" id="26" lineNum="5" parent="globals/BHMenu" pc="268454539" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="28" lineNum="11" parent="globals/DataFieldAlertView" pc="268437884" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="28" lineNum="12" parent="globals/DataFieldAlertView" pc="268437888" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="28" lineNum="13" parent="globals/DataFieldAlertView" pc="268437906" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="28" lineNum="14" parent="globals/DataFieldAlertView" pc="268437916" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="28" lineNum="15" parent="globals/DataFieldAlertView" pc="268437926" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="29" lineNum="18" parent="globals/DataFieldAlertView" pc="268437937" symbol="onShow"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="29" lineNum="21" parent="globals/DataFieldAlertView" pc="268437941" symbol="onShow"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="29" lineNum="23" parent="globals/DataFieldAlertView" pc="268437956" symbol="onShow"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="29" lineNum="27" parent="globals/DataFieldAlertView" pc="268437987" symbol="onShow"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="29" lineNum="29" parent="globals/DataFieldAlertView" pc="268438002" symbol="onShow"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="29" lineNum="31" parent="globals/DataFieldAlertView" pc="268438054" symbol="onShow"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="35" parent="globals/DataFieldAlertView" pc="268438076" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="37" parent="globals/DataFieldAlertView" pc="268438080" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="38" parent="globals/DataFieldAlertView" pc="268438080" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="39" parent="globals/DataFieldAlertView" pc="268438080" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="40" parent="globals/DataFieldAlertView" pc="268438106" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="41" parent="globals/DataFieldAlertView" pc="268438122" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="43" parent="globals/DataFieldAlertView" pc="268438141" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="44" parent="globals/DataFieldAlertView" pc="268438157" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="46" parent="globals/DataFieldAlertView" pc="268438173" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="47" parent="globals/DataFieldAlertView" pc="268438189" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="48" parent="globals/DataFieldAlertView" pc="268438201" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="49" parent="globals/DataFieldAlertView" pc="268438229" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="56" parent="globals/DataFieldAlertView" pc="268438356" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="57" parent="globals/DataFieldAlertView" pc="268438370" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="64" parent="globals/DataFieldAlertView" pc="268438509" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="65" parent="globals/DataFieldAlertView" pc="268438523" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="30" lineNum="72" parent="globals/DataFieldAlertView" pc="268438662" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="31" lineNum="5" parent="globals/DataFieldAlertView" pc="268454702" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHAlert.mc" id="31" lineNum="5" parent="globals/DataFieldAlertView" pc="268454702" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="33" lineNum="11" parent="globals/NumberFactory" pc="268438677" symbol="getIndex"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="33" lineNum="12" parent="globals/NumberFactory" pc="268438681" symbol="getIndex"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="33" lineNum="13" parent="globals/NumberFactory" pc="268438703" symbol="getIndex"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="16" parent="globals/NumberFactory" pc="268438707" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="17" parent="globals/NumberFactory" pc="268438711" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="19" parent="globals/NumberFactory" pc="268438729" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="20" parent="globals/NumberFactory" pc="268438739" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="21" parent="globals/NumberFactory" pc="268438749" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="23" parent="globals/NumberFactory" pc="268438759" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="24" parent="globals/NumberFactory" pc="268438766" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="25" parent="globals/NumberFactory" pc="268438790" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="28" parent="globals/NumberFactory" pc="268438817" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="29" parent="globals/NumberFactory" pc="268438830" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="32" parent="globals/NumberFactory" pc="268438853" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="34" lineNum="33" parent="globals/NumberFactory" pc="268438866" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="35" lineNum="37" parent="globals/NumberFactory" pc="268438883" symbol="getDrawable"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="35" lineNum="38" parent="globals/NumberFactory" pc="268438887" symbol="getDrawable"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="36" lineNum="44" parent="globals/NumberFactory" pc="268439015" symbol="getValue"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="36" lineNum="45" parent="globals/NumberFactory" pc="268439019" symbol="getValue"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="37" lineNum="48" parent="globals/NumberFactory" pc="268439041" symbol="getSize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="37" lineNum="49" parent="globals/NumberFactory" pc="268439045" symbol="getSize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="38" lineNum="4" parent="globals/NumberFactory" pc="268454683" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\Factories\\NumberFactory.mc" id="38" lineNum="4" parent="globals/NumberFactory" pc="268454683" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="40" lineNum="10" parent="globals/BHMenuDelegate" pc="268439079" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="40" lineNum="12" parent="globals/BHMenuDelegate" pc="268439083" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="40" lineNum="13" parent="globals/BHMenuDelegate" pc="268439101" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="17" parent="globals/BHMenuDelegate" pc="268439112" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="20" parent="globals/BHMenuDelegate" pc="268439116" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="23" parent="globals/BHMenuDelegate" pc="268439129" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="24" parent="globals/BHMenuDelegate" pc="268439148" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="25" parent="globals/BHMenuDelegate" pc="268439170" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="26" parent="globals/BHMenuDelegate" pc="268439192" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="28" parent="globals/BHMenuDelegate" pc="268439251" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="30" parent="globals/BHMenuDelegate" pc="268439310" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="32" parent="globals/BHMenuDelegate" pc="268439318" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="33" parent="globals/BHMenuDelegate" pc="268439328" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="35" parent="globals/BHMenuDelegate" pc="268439351" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="37" parent="globals/BHMenuDelegate" pc="268439432" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="40" parent="globals/BHMenuDelegate" pc="268439472" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="43" parent="globals/BHMenuDelegate" pc="268439509" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="46" parent="globals/BHMenuDelegate" pc="268439563" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="47" parent="globals/BHMenuDelegate" pc="268439606" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="49" parent="globals/BHMenuDelegate" pc="268439625" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="51" parent="globals/BHMenuDelegate" pc="268439687" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="53" parent="globals/BHMenuDelegate" pc="268439691" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="55" parent="globals/BHMenuDelegate" pc="268439722" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="57" parent="globals/BHMenuDelegate" pc="268439737" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="58" parent="globals/BHMenuDelegate" pc="268439772" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="60" parent="globals/BHMenuDelegate" pc="268439779" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="63" parent="globals/BHMenuDelegate" pc="268439783" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="64" parent="globals/BHMenuDelegate" pc="268439793" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="71" parent="globals/BHMenuDelegate" pc="268439944" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="73" parent="globals/BHMenuDelegate" pc="268439991" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="74" parent="globals/BHMenuDelegate" pc="268440054" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="75" parent="globals/BHMenuDelegate" pc="268440073" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="76" parent="globals/BHMenuDelegate" pc="268440150" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="78" parent="globals/BHMenuDelegate" pc="268440169" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="79" parent="globals/BHMenuDelegate" pc="268440231" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="85" parent="globals/BHMenuDelegate" pc="268440428" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="91" parent="globals/BHMenuDelegate" pc="268440625" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="98" parent="globals/BHMenuDelegate" pc="268440822" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="102" parent="globals/BHMenuDelegate" pc="268440885" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="104" parent="globals/BHMenuDelegate" pc="268440899" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="106" parent="globals/BHMenuDelegate" pc="268440927" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="41" lineNum="111" parent="globals/BHMenuDelegate" pc="268440965" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="42" lineNum="114" parent="globals/BHMenuDelegate" pc="268440982" symbol="onBack"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="42" lineNum="115" parent="globals/BHMenuDelegate" pc="268440986" symbol="onBack"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="42" lineNum="116" parent="globals/BHMenuDelegate" pc="268441014" symbol="onBack"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="43" lineNum="119" parent="globals/BHMenuDelegate" pc="268441018" symbol="onWrap"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="43" lineNum="120" parent="globals/BHMenuDelegate" pc="268441022" symbol="onWrap"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="44" lineNum="124" parent="globals/BHMenuDelegate" pc="268441026" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="44" lineNum="125" parent="globals/BHMenuDelegate" pc="268441030" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="44" lineNum="126" parent="globals/BHMenuDelegate" pc="268441043" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="44" lineNum="127" parent="globals/BHMenuDelegate" pc="268441053" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="44" lineNum="128" parent="globals/BHMenuDelegate" pc="268441066" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="44" lineNum="129" parent="globals/BHMenuDelegate" pc="268441076" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="44" lineNum="130" parent="globals/BHMenuDelegate" pc="268441117" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="45" lineNum="6" parent="globals/BHMenuDelegate" pc="268454588" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="45" lineNum="6" parent="globals/BHMenuDelegate" pc="268454588" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="46" lineNum="138" parent="globals/Menu2SubMenuDelegate" pc="268441121" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="46" lineNum="139" parent="globals/Menu2SubMenuDelegate" pc="268441125" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="46" lineNum="140" parent="globals/Menu2SubMenuDelegate" pc="268441143" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="143" parent="globals/Menu2SubMenuDelegate" pc="268441154" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="145" parent="globals/Menu2SubMenuDelegate" pc="268441158" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="147" parent="globals/Menu2SubMenuDelegate" pc="268441171" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="149" parent="globals/Menu2SubMenuDelegate" pc="268441218" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="151" parent="globals/Menu2SubMenuDelegate" pc="268441225" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="153" parent="globals/Menu2SubMenuDelegate" pc="268441266" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="155" parent="globals/Menu2SubMenuDelegate" pc="268441289" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="157" parent="globals/Menu2SubMenuDelegate" pc="268441370" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="159" parent="globals/Menu2SubMenuDelegate" pc="268441454" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="161" parent="globals/Menu2SubMenuDelegate" pc="268441494" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="165" parent="globals/Menu2SubMenuDelegate" pc="268441512" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="167" parent="globals/Menu2SubMenuDelegate" pc="268441540" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="169" parent="globals/Menu2SubMenuDelegate" pc="268441547" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="173" parent="globals/Menu2SubMenuDelegate" pc="268441585" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="175" parent="globals/Menu2SubMenuDelegate" pc="268441613" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="177" parent="globals/Menu2SubMenuDelegate" pc="268441620" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="181" parent="globals/Menu2SubMenuDelegate" pc="268441658" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="183" parent="globals/Menu2SubMenuDelegate" pc="268441686" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="185" parent="globals/Menu2SubMenuDelegate" pc="268441693" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="47" lineNum="190" parent="globals/Menu2SubMenuDelegate" pc="268441731" symbol="onSelect"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="48" lineNum="193" parent="globals/Menu2SubMenuDelegate" pc="268441748" symbol="onBack"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="48" lineNum="194" parent="globals/Menu2SubMenuDelegate" pc="268441752" symbol="onBack"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="49" lineNum="197" parent="globals/Menu2SubMenuDelegate" pc="268441781" symbol="onDone"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="49" lineNum="198" parent="globals/Menu2SubMenuDelegate" pc="268441785" symbol="onDone"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="50" lineNum="201" parent="globals/Menu2SubMenuDelegate" pc="268441814" symbol="onWrap"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="50" lineNum="202" parent="globals/Menu2SubMenuDelegate" pc="268441818" symbol="onWrap"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="51" lineNum="134" parent="globals/Menu2SubMenuDelegate" pc="268454520" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHMenuDelegate.mc" id="51" lineNum="134" parent="globals/Menu2SubMenuDelegate" pc="268454520" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source-edge1040\\constants.mc" id="53" lineNum="1" parent="globals" pc="268454408" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="53" parent="globals/BHView" pc="268441822" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="54" parent="globals/BHView" pc="268441826" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="55" parent="globals/BHView" pc="268441844" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="56" parent="globals/BHView" pc="268441887" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="57" parent="globals/BHView" pc="268441913" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="58" parent="globals/BHView" pc="268441941" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="59" parent="globals/BHView" pc="268441967" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="60" parent="globals/BHView" pc="268441995" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="61" parent="globals/BHView" pc="268442021" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="62" parent="globals/BHView" pc="268442049" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="63" parent="globals/BHView" pc="268442059" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="64" parent="globals/BHView" pc="268442085" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="65" parent="globals/BHView" pc="268442111" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="66" parent="globals/BHView" pc="268442148" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="67" parent="globals/BHView" pc="268442174" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="68" parent="globals/BHView" pc="268442200" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="69" parent="globals/BHView" pc="268442237" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="70" parent="globals/BHView" pc="268442263" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="71" parent="globals/BHView" pc="268442289" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="72" parent="globals/BHView" pc="268442326" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="73" parent="globals/BHView" pc="268442352" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="75" parent="globals/BHView" pc="268442364" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="76" parent="globals/BHView" pc="268442377" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="77" parent="globals/BHView" pc="268442390" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="78" parent="globals/BHView" pc="268442403" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="81" parent="globals/BHView" pc="268442413" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="84" parent="globals/BHView" pc="268442468" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="90" parent="globals/BHView" pc="268442621" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="96" parent="globals/BHView" pc="268442761" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="102" parent="globals/BHView" pc="268442901" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="110" parent="globals/BHView" pc="268443041" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="111" parent="globals/BHView" pc="268443064" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="54" lineNum="113" parent="globals/BHView" pc="268443087" symbol="initialize"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="55" lineNum="131" parent="globals/BHView" pc="268443100" symbol="FIT"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="55" lineNum="133" parent="globals/BHView" pc="268443104" symbol="FIT"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="137" parent="globals/BHView" pc="268443106" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="138" parent="globals/BHView" pc="268443110" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="139" parent="globals/BHView" pc="268443131" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="141" parent="globals/BHView" pc="268443150" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="142" parent="globals/BHView" pc="268443177" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="143" parent="globals/BHView" pc="268443205" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="144" parent="globals/BHView" pc="268443218" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="146" parent="globals/BHView" pc="268443234" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="147" parent="globals/BHView" pc="268443262" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="148" parent="globals/BHView" pc="268443292" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="149" parent="globals/BHView" pc="268443305" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="56" lineNum="153" parent="globals/BHView" pc="268443324" symbol="onStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="57" lineNum="157" parent="globals/BHView" pc="268443328" symbol="onStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="57" lineNum="158" parent="globals/BHView" pc="268443332" symbol="onStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="57" lineNum="160" parent="globals/BHView" pc="268443353" symbol="onStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="57" lineNum="162" parent="globals/BHView" pc="268443382" symbol="onStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="58" lineNum="166" parent="globals/BHView" pc="268443412" symbol="onTimerStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="58" lineNum="167" parent="globals/BHView" pc="268443416" symbol="onTimerStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="58" lineNum="168" parent="globals/BHView" pc="268443437" symbol="onTimerStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="58" lineNum="170" parent="globals/BHView" pc="268443447" symbol="onTimerStart"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="59" lineNum="174" parent="globals/BHView" pc="268443503" symbol="onTimerResume"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="59" lineNum="175" parent="globals/BHView" pc="268443507" symbol="onTimerResume"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="59" lineNum="176" parent="globals/BHView" pc="268443528" symbol="onTimerResume"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="60" lineNum="180" parent="globals/BHView" pc="268443539" symbol="onTimerStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="60" lineNum="181" parent="globals/BHView" pc="268443543" symbol="onTimerStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="60" lineNum="182" parent="globals/BHView" pc="268443564" symbol="onTimerStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="60" lineNum="183" parent="globals/BHView" pc="268443574" symbol="onTimerStop"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="61" lineNum="187" parent="globals/BHView" pc="268443584" symbol="onTimerPause"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="61" lineNum="188" parent="globals/BHView" pc="268443588" symbol="onTimerPause"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="61" lineNum="189" parent="globals/BHView" pc="268443609" symbol="onTimerPause"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="61" lineNum="190" parent="globals/BHView" pc="268443619" symbol="onTimerPause"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="62" lineNum="194" parent="globals/BHView" pc="268443629" symbol="onTimerReset"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="62" lineNum="195" parent="globals/BHView" pc="268443633" symbol="onTimerReset"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="62" lineNum="196" parent="globals/BHView" pc="268443654" symbol="onTimerReset"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="62" lineNum="197" parent="globals/BHView" pc="268443667" symbol="onTimerReset"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="204" parent="globals/BHView" pc="268443681" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="206" parent="globals/BHView" pc="268443685" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="208" parent="globals/BHView" pc="268443697" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="209" parent="globals/BHView" pc="268443713" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="212" parent="globals/BHView" pc="268443729" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="213" parent="globals/BHView" pc="268443740" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="215" parent="globals/BHView" pc="268443753" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="218" parent="globals/BHView" pc="268443788" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="220" parent="globals/BHView" pc="268443807" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="223" parent="globals/BHView" pc="268443874" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="225" parent="globals/BHView" pc="268443885" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="227" parent="globals/BHView" pc="268443893" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="230" parent="globals/BHView" pc="268443906" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="233" parent="globals/BHView" pc="268443916" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="235" parent="globals/BHView" pc="268443933" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="237" parent="globals/BHView" pc="268443945" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="239" parent="globals/BHView" pc="268443994" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="241" parent="globals/BHView" pc="268444005" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="243" parent="globals/BHView" pc="268444039" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="245" parent="globals/BHView" pc="268444088" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="247" parent="globals/BHView" pc="268444099" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="249" parent="globals/BHView" pc="268444133" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="251" parent="globals/BHView" pc="268444182" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="253" parent="globals/BHView" pc="268444193" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="259" parent="globals/BHView" pc="268444233" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="262" parent="globals/BHView" pc="268444270" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="264" parent="globals/BHView" pc="268444281" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="266" parent="globals/BHView" pc="268444292" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="268" parent="globals/BHView" pc="268444312" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="269" parent="globals/BHView" pc="268444334" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="273" parent="globals/BHView" pc="268444372" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="276" parent="globals/BHView" pc="268444402" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="277" parent="globals/BHView" pc="268444405" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="278" parent="globals/BHView" pc="268444408" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="63" lineNum="281" parent="globals/BHView" pc="268444414" symbol="compute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="64" lineNum="288" parent="globals/BHView" pc="268444434" symbol="onLayout"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="64" lineNum="291" parent="globals/BHView" pc="268444438" symbol="onLayout"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="64" lineNum="293" parent="globals/BHView" pc="268444447" symbol="onLayout"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="299" parent="globals/BHView" pc="268444451" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="302" parent="globals/BHView" pc="268444455" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="303" parent="globals/BHView" pc="268444468" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="306" parent="globals/BHView" pc="268444485" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="332" parent="globals/BHView" pc="268444617" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="333" parent="globals/BHView" pc="268444654" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="334" parent="globals/BHView" pc="268444664" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="308" parent="globals/BHView" pc="268444670" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="309" parent="globals/BHView" pc="268444707" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="310" parent="globals/BHView" pc="268444717" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="312" parent="globals/BHView" pc="268444720" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="313" parent="globals/BHView" pc="268444757" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="314" parent="globals/BHView" pc="268444767" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="316" parent="globals/BHView" pc="268444770" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="317" parent="globals/BHView" pc="268444807" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="318" parent="globals/BHView" pc="268444817" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="320" parent="globals/BHView" pc="268444820" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="321" parent="globals/BHView" pc="268444857" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="322" parent="globals/BHView" pc="268444867" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="324" parent="globals/BHView" pc="268444870" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="325" parent="globals/BHView" pc="268444907" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="326" parent="globals/BHView" pc="268444917" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="328" parent="globals/BHView" pc="268444920" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="329" parent="globals/BHView" pc="268444957" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="330" parent="globals/BHView" pc="268444967" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="337" parent="globals/BHView" pc="268444973" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="339" parent="globals/BHView" pc="268445016" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="341" parent="globals/BHView" pc="268445040" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="343" parent="globals/BHView" pc="268445064" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="345" parent="globals/BHView" pc="268445088" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="347" parent="globals/BHView" pc="268445115" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="348" parent="globals/BHView" pc="268445139" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="351" parent="globals/BHView" pc="268445166" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="352" parent="globals/BHView" pc="268445190" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="355" parent="globals/BHView" pc="268445214" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="357" parent="globals/BHView" pc="268445226" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="359" parent="globals/BHView" pc="268445253" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="362" parent="globals/BHView" pc="268445280" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="366" parent="globals/BHView" pc="268445307" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="369" parent="globals/BHView" pc="268445331" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="371" parent="globals/BHView" pc="268445345" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="373" parent="globals/BHView" pc="268445365" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="375" parent="globals/BHView" pc="268445385" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="378" parent="globals/BHView" pc="268445408" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="380" parent="globals/BHView" pc="268445425" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="382" parent="globals/BHView" pc="268445442" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="385" parent="globals/BHView" pc="268445459" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="388" parent="globals/BHView" pc="268445479" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="389" parent="globals/BHView" pc="268445482" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="65" lineNum="390" parent="globals/BHView" pc="268445485" symbol="onUpdate"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="66" lineNum="394" parent="globals/BHView" pc="268445489" symbol="alarme"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="66" lineNum="397" parent="globals/BHView" pc="268445493" symbol="alarme"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="401" parent="globals/BHView" pc="268445569" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="404" parent="globals/BHView" pc="268445573" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="406" parent="globals/BHView" pc="268445597" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="408" parent="globals/BHView" pc="268445626" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="410" parent="globals/BHView" pc="268445637" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="412" parent="globals/BHView" pc="268445647" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="415" parent="globals/BHView" pc="268445660" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="418" parent="globals/BHView" pc="268445670" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="420" parent="globals/BHView" pc="268445699" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="422" parent="globals/BHView" pc="268445728" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="423" parent="globals/BHView" pc="268445804" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="427" parent="globals/BHView" pc="268445833" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="429" parent="globals/BHView" pc="268445882" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="431" parent="globals/BHView" pc="268445911" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="433" parent="globals/BHView" pc="268445925" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="435" parent="globals/BHView" pc="268445938" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="437" parent="globals/BHView" pc="268445963" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="439" parent="globals/BHView" pc="268445998" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="442" parent="globals/BHView" pc="268446004" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="445" parent="globals/BHView" pc="268446014" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="448" parent="globals/BHView" pc="268446026" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="449" parent="globals/BHView" pc="268446029" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="450" parent="globals/BHView" pc="268446032" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="451" parent="globals/BHView" pc="268446035" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="67" lineNum="452" parent="globals/BHView" pc="268446038" symbol="calculStat"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="68" lineNum="489" parent="globals/BHView" pc="268446042" symbol="GestNbStep"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="68" lineNum="490" parent="globals/BHView" pc="268446046" symbol="GestNbStep"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="69" lineNum="494" parent="globals/BHView" pc="268446048" symbol="formatSecondEnMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="69" lineNum="495" parent="globals/BHView" pc="268446052" symbol="formatSecondEnMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="69" lineNum="496" parent="globals/BHView" pc="268446065" symbol="formatSecondEnMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="69" lineNum="497" parent="globals/BHView" pc="268446075" symbol="formatSecondEnMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="70" lineNum="501" parent="globals/BHView" pc="268446079" symbol="formatSecondEnHM"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="70" lineNum="502" parent="globals/BHView" pc="268446083" symbol="formatSecondEnHM"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="70" lineNum="503" parent="globals/BHView" pc="268446096" symbol="formatSecondEnHM"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="70" lineNum="504" parent="globals/BHView" pc="268446106" symbol="formatSecondEnHM"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="70" lineNum="505" parent="globals/BHView" pc="268446119" symbol="formatSecondEnHM"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="70" lineNum="506" parent="globals/BHView" pc="268446129" symbol="formatSecondEnHM"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="70" lineNum="507" parent="globals/BHView" pc="268446153" symbol="formatSecondEnHM"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="71" lineNum="511" parent="globals/BHView" pc="268446157" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="71" lineNum="512" parent="globals/BHView" pc="268446161" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="71" lineNum="513" parent="globals/BHView" pc="268446174" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="71" lineNum="514" parent="globals/BHView" pc="268446184" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="71" lineNum="515" parent="globals/BHView" pc="268446197" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="71" lineNum="517" parent="globals/BHView" pc="268446207" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="71" lineNum="518" parent="globals/BHView" pc="268446234" symbol="formatSecond"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="72" lineNum="522" parent="globals/BHView" pc="268446238" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="72" lineNum="523" parent="globals/BHView" pc="268446242" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="72" lineNum="524" parent="globals/BHView" pc="268446255" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="72" lineNum="525" parent="globals/BHView" pc="268446265" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="72" lineNum="526" parent="globals/BHView" pc="268446278" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="72" lineNum="527" parent="globals/BHView" pc="268446288" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="72" lineNum="528" parent="globals/BHView" pc="268446329" symbol="formatMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="73" lineNum="532" parent="globals/BHView" pc="268446333" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="73" lineNum="534" parent="globals/BHView" pc="268446337" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="73" lineNum="535" parent="globals/BHView" pc="268446380" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="73" lineNum="536" parent="globals/BHView" pc="268446435" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="73" lineNum="537" parent="globals/BHView" pc="268446445" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="73" lineNum="538" parent="globals/BHView" pc="268446452" symbol="calculTempsMinute"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="74" lineNum="542" parent="globals/BHView" pc="268446456" symbol="recupInfoBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="74" lineNum="544" parent="globals/BHView" pc="268446460" symbol="recupInfoBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="74" lineNum="545" parent="globals/BHView" pc="268446500" symbol="recupInfoBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="74" lineNum="546" parent="globals/BHView" pc="268446540" symbol="recupInfoBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="74" lineNum="547" parent="globals/BHView" pc="268446591" symbol="recupInfoBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="551" parent="globals/BHView" pc="268446614" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="552" parent="globals/BHView" pc="268446618" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="553" parent="globals/BHView" pc="268446655" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="554" parent="globals/BHView" pc="268446684" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="555" parent="globals/BHView" pc="268446712" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="557" parent="globals/BHView" pc="268446755" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="559" parent="globals/BHView" pc="268446775" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="561" parent="globals/BHView" pc="268446804" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="562" parent="globals/BHView" pc="268446832" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="75" lineNum="563" parent="globals/BHView" pc="268446860" symbol="recupProperties"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="567" parent="globals/BHView" pc="268446889" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="570" parent="globals/BHView" pc="268446893" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="571" parent="globals/BHView" pc="268446897" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="572" parent="globals/BHView" pc="268446900" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="573" parent="globals/BHView" pc="268446903" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="575" parent="globals/BHView" pc="268446916" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="576" parent="globals/BHView" pc="268446937" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="577" parent="globals/BHView" pc="268446940" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="579" parent="globals/BHView" pc="268446943" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="581" parent="globals/BHView" pc="268446977" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="583" parent="globals/BHView" pc="268447006" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="585" parent="globals/BHView" pc="268447040" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="586" parent="globals/BHView" pc="268447060" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="588" parent="globals/BHView" pc="268447060" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="589" parent="globals/BHView" pc="268447103" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="591" parent="globals/BHView" pc="268447186" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="593" parent="globals/BHView" pc="268447190" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="594" parent="globals/BHView" pc="268447201" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="595" parent="globals/BHView" pc="268447233" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="596" parent="globals/BHView" pc="268447262" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="598" parent="globals/BHView" pc="268447297" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="599" parent="globals/BHView" pc="268447326" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="600" parent="globals/BHView" pc="268447355" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="603" parent="globals/BHView" pc="268447396" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="605" parent="globals/BHView" pc="268447413" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="607" parent="globals/BHView" pc="268447426" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="609" parent="globals/BHView" pc="268447430" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="610" parent="globals/BHView" pc="268447441" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="611" parent="globals/BHView" pc="268447473" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="612" parent="globals/BHView" pc="268447502" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="614" parent="globals/BHView" pc="268447537" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="615" parent="globals/BHView" pc="268447566" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="616" parent="globals/BHView" pc="268447595" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="620" parent="globals/BHView" pc="268447627" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="621" parent="globals/BHView" pc="268447631" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="622" parent="globals/BHView" pc="268447660" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="625" parent="globals/BHView" pc="268447689" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="628" parent="globals/BHView" pc="268447695" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="630" parent="globals/BHView" pc="268447699" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="631" parent="globals/BHView" pc="268447710" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="632" parent="globals/BHView" pc="268447742" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="633" parent="globals/BHView" pc="268447771" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="635" parent="globals/BHView" pc="268447806" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="636" parent="globals/BHView" pc="268447835" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="637" parent="globals/BHView" pc="268447864" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="641" parent="globals/BHView" pc="268447893" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="644" parent="globals/BHView" pc="268447909" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="646" parent="globals/BHView" pc="268447938" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="649" parent="globals/BHView" pc="268447950" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="76" lineNum="650" parent="globals/BHView" pc="268447953" symbol="controleParamBH"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="653" parent="globals/BHView" pc="268447957" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="655" parent="globals/BHView" pc="268447961" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="656" parent="globals/BHView" pc="268447974" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="657" parent="globals/BHView" pc="268447974" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="660" parent="globals/BHView" pc="268448021" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="661" parent="globals/BHView" pc="268448034" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="663" parent="globals/BHView" pc="268448066" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="664" parent="globals/BHView" pc="268448091" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="666" parent="globals/BHView" pc="268448098" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="667" parent="globals/BHView" pc="268448111" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="670" parent="globals/BHView" pc="268448134" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="671" parent="globals/BHView" pc="268448147" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="77" lineNum="675" parent="globals/BHView" pc="268448170" symbol="readKeyInt"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="678" parent="globals/BHView" pc="268448174" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="680" parent="globals/BHView" pc="268448178" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="681" parent="globals/BHView" pc="268448182" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="682" parent="globals/BHView" pc="268448182" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="685" parent="globals/BHView" pc="268448229" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="686" parent="globals/BHView" pc="268448233" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="688" parent="globals/BHView" pc="268448265" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="690" parent="globals/BHView" pc="268448272" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="691" parent="globals/BHView" pc="268448276" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="78" lineNum="694" parent="globals/BHView" pc="268448299" symbol="readKey"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="698" parent="globals/BHView" pc="268448303" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="700" parent="globals/BHView" pc="268448307" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="701" parent="globals/BHView" pc="268448320" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="703" parent="globals/BHView" pc="268448333" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="705" parent="globals/BHView" pc="268448346" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="707" parent="globals/BHView" pc="268448383" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="709" parent="globals/BHView" pc="268448402" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="710" parent="globals/BHView" pc="268448417" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="711" parent="globals/BHView" pc="268448427" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="712" parent="globals/BHView" pc="268448434" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="713" parent="globals/BHView" pc="268448447" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="715" parent="globals/BHView" pc="268448460" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="717" parent="globals/BHView" pc="268448520" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="719" parent="globals/BHView" pc="268448569" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="720" parent="globals/BHView" pc="268448572" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="721" parent="globals/BHView" pc="268448575" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="722" parent="globals/BHView" pc="268448578" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="723" parent="globals/BHView" pc="268448581" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="724" parent="globals/BHView" pc="268448584" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="725" parent="globals/BHView" pc="268448587" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="726" parent="globals/BHView" pc="268448590" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="727" parent="globals/BHView" pc="268448593" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="729" parent="globals/BHView" pc="268448596" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="79" lineNum="731" parent="globals/BHView" pc="268448600" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="80" lineNum="11" parent="globals/BHView" pc="268454626" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\Users\\humea\\test2\\LCT_Barriere_Horaire_BETA\\source\\BHView.mc" id="80" lineNum="11" parent="globals/BHView" pc="268454626" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="82" lineNum="2" parent="globals/Rez/Drawables" pc="268454582" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="83" lineNum="6" parent="globals/Rez/Fonts" pc="268454584" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="84" lineNum="8" parent="globals/Rez/JsonData" pc="268454586" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="85" lineNum="25" parent="globals/Rez/Layouts" pc="268448627" symbol="MainLayout"/>
+        <entry filename="Rez" id="85" lineNum="27" parent="globals/Rez/Layouts" pc="268448639" symbol="MainLayout"/>
+        <entry filename="Rez" id="85" lineNum="28" parent="globals/Rez/Layouts" pc="268448652" symbol="MainLayout"/>
+        <entry filename="Rez" id="85" lineNum="30" parent="globals/Rez/Layouts" pc="268448665" symbol="MainLayout"/>
+        <entry filename="Rez" id="85" lineNum="31" parent="globals/Rez/Layouts" pc="268448689" symbol="MainLayout"/>
+        <entry filename="Rez" id="85" lineNum="32" parent="globals/Rez/Layouts" pc="268448942" symbol="MainLayout"/>
+        <entry filename="Rez" id="85" lineNum="33" parent="globals/Rez/Layouts" pc="268449235" symbol="MainLayout"/>
+        <entry filename="Rez" id="85" lineNum="35" parent="globals/Rez/Layouts" pc="268449488" symbol="MainLayout"/>
+        <entry filename="Rez" id="86" lineNum="44" parent="globals/Rez/Layouts" pc="268449536" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="86" lineNum="46" parent="globals/Rez/Layouts" pc="268449548" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="86" lineNum="47" parent="globals/Rez/Layouts" pc="268449561" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="86" lineNum="49" parent="globals/Rez/Layouts" pc="268449574" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="86" lineNum="50" parent="globals/Rez/Layouts" pc="268449598" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="86" lineNum="51" parent="globals/Rez/Layouts" pc="268449828" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="86" lineNum="52" parent="globals/Rez/Layouts" pc="268450081" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="86" lineNum="54" parent="globals/Rez/Layouts" pc="268450334" symbol="MidTopLayout"/>
+        <entry filename="Rez" id="87" lineNum="63" parent="globals/Rez/Layouts" pc="268450382" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="87" lineNum="65" parent="globals/Rez/Layouts" pc="268450394" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="87" lineNum="66" parent="globals/Rez/Layouts" pc="268450407" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="87" lineNum="68" parent="globals/Rez/Layouts" pc="268450420" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="87" lineNum="69" parent="globals/Rez/Layouts" pc="268450444" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="87" lineNum="70" parent="globals/Rez/Layouts" pc="268450654" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="87" lineNum="71" parent="globals/Rez/Layouts" pc="268450867" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="87" lineNum="73" parent="globals/Rez/Layouts" pc="268451100" symbol="MidTopSmallLayout"/>
+        <entry filename="Rez" id="88" lineNum="82" parent="globals/Rez/Layouts" pc="268451148" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="88" lineNum="84" parent="globals/Rez/Layouts" pc="268451160" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="88" lineNum="85" parent="globals/Rez/Layouts" pc="268451173" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="88" lineNum="87" parent="globals/Rez/Layouts" pc="268451186" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="88" lineNum="88" parent="globals/Rez/Layouts" pc="268451210" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="88" lineNum="89" parent="globals/Rez/Layouts" pc="268451483" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="88" lineNum="90" parent="globals/Rez/Layouts" pc="268451756" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="88" lineNum="92" parent="globals/Rez/Layouts" pc="268452009" symbol="MidBottomLayout"/>
+        <entry filename="Rez" id="89" lineNum="101" parent="globals/Rez/Layouts" pc="268452057" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="89" lineNum="103" parent="globals/Rez/Layouts" pc="268452069" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="89" lineNum="104" parent="globals/Rez/Layouts" pc="268452082" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="89" lineNum="106" parent="globals/Rez/Layouts" pc="268452095" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="89" lineNum="107" parent="globals/Rez/Layouts" pc="268452119" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="89" lineNum="108" parent="globals/Rez/Layouts" pc="268452349" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="89" lineNum="109" parent="globals/Rez/Layouts" pc="268452562" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="89" lineNum="111" parent="globals/Rez/Layouts" pc="268452775" symbol="MidBottomSmallLayout"/>
+        <entry filename="Rez" id="90" lineNum="120" parent="globals/Rez/Layouts" pc="268452823" symbol="CenterLayout"/>
+        <entry filename="Rez" id="90" lineNum="122" parent="globals/Rez/Layouts" pc="268452835" symbol="CenterLayout"/>
+        <entry filename="Rez" id="90" lineNum="123" parent="globals/Rez/Layouts" pc="268452848" symbol="CenterLayout"/>
+        <entry filename="Rez" id="90" lineNum="125" parent="globals/Rez/Layouts" pc="268452861" symbol="CenterLayout"/>
+        <entry filename="Rez" id="90" lineNum="126" parent="globals/Rez/Layouts" pc="268452885" symbol="CenterLayout"/>
+        <entry filename="Rez" id="90" lineNum="127" parent="globals/Rez/Layouts" pc="268453120" symbol="CenterLayout"/>
+        <entry filename="Rez" id="90" lineNum="128" parent="globals/Rez/Layouts" pc="268453361" symbol="CenterLayout"/>
+        <entry filename="Rez" id="90" lineNum="130" parent="globals/Rez/Layouts" pc="268453605" symbol="CenterLayout"/>
+        <entry filename="Rez" id="91" lineNum="139" parent="globals/Rez/Layouts" pc="268453653" symbol="OtherLayout"/>
+        <entry filename="Rez" id="91" lineNum="141" parent="globals/Rez/Layouts" pc="268453665" symbol="OtherLayout"/>
+        <entry filename="Rez" id="91" lineNum="142" parent="globals/Rez/Layouts" pc="268453678" symbol="OtherLayout"/>
+        <entry filename="Rez" id="91" lineNum="144" parent="globals/Rez/Layouts" pc="268453691" symbol="OtherLayout"/>
+        <entry filename="Rez" id="91" lineNum="145" parent="globals/Rez/Layouts" pc="268453715" symbol="OtherLayout"/>
+        <entry filename="Rez" id="91" lineNum="146" parent="globals/Rez/Layouts" pc="268453965" symbol="OtherLayout"/>
+        <entry filename="Rez" id="91" lineNum="147" parent="globals/Rez/Layouts" pc="268454221" symbol="OtherLayout"/>
+        <entry filename="Rez" id="91" lineNum="149" parent="globals/Rez/Layouts" pc="268454360" symbol="OtherLayout"/>
+        <entry filename="Rez" id="92" lineNum="18" parent="globals/Rez/Layouts" pc="268454585" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="93" lineNum="154" parent="globals/Rez/Menus" pc="268454583" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="94" lineNum="156" parent="globals/Rez/Strings" pc="268454587" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="95" lineNum="1" parent="globals/Rez" pc="268454558" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="95" lineNum="1" parent="globals/Rez" pc="268454558" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="97" symbol="MenuLabelParametresPassageAuto"/>
+        <entry field="true" id="92" symbol="BH_Time19_title"/>
+        <entry field="true" id="91" symbol="BH_label18_title"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="125" symbol="BH_Time7_title"/>
+        <entry field="true" id="54" symbol="BH1_Time_length_Error"/>
+        <entry id="8389626" method="true" symbol="onAccept"/>
+        <entry field="true" id="186" symbol="mStop"/>
+        <entry field="true" id="84" symbol="SousMenuLabelBarrieres"/>
+        <entry field="true" id="139" symbol="menu"/>
+        <entry field="true" id="87" symbol="BH_subLabel19_title"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="131" symbol="BH_label6_title"/>
+        <entry field="true" id="158" symbol="alarmeTemps3Actif"/>
+        <entry field="true" id="163" symbol="bhBatteryChartField"/>
+        <entry field="true" id="112" symbol="BH_label7_title"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="72" symbol="BH_label8_title"/>
+        <entry field="true" id="145" symbol="bhActive"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389849" symbol="units"/>
+        <entry id="8390437" symbol="alignment"/>
+        <entry field="true" id="130" symbol="MenuLabelBarrieres"/>
+        <entry id="8391699" method="true" symbol="showAlert"/>
+        <entry id="18" object="true" symbol="BHMenuDelegate"/>
+        <entry field="true" id="106" symbol="isAutomatique_title"/>
+        <entry id="28" method="true" symbol="MainLayout"/>
+        <entry field="true" id="142" symbol="bhSubLabel"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="151" symbol="isAutomatique"/>
+        <entry field="true" id="188" symbol="mFormatString"/>
+        <entry field="true" id="11" symbol="item"/>
+        <entry field="true" id="47" symbol="MenuLabelDecalage"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="170" symbol="mValue"/>
+        <entry id="15" object="true" symbol="BHMenu"/>
+        <entry id="8389748" method="true" symbol="onTimerStop"/>
+        <entry field="true" id="150" symbol="isEnRetard"/>
+        <entry id="19" object="true" symbol="Menu2SubMenuDelegate"/>
+        <entry field="true" id="132" symbol="BH_label10_title"/>
+        <entry field="true" id="190" symbol="alerteNom"/>
+        <entry field="true" id="83" symbol="BH_Time12_title"/>
+        <entry field="true" id="41" symbol="BH_subLabel7_title"/>
+        <entry id="32" method="true" symbol="MidBottomSmallLayout"/>
+        <entry field="true" id="94" symbol="BH_label11_title"/>
+        <entry field="true" id="53" symbol="step_label"/>
+        <entry id="8389629" method="true" symbol="getValue"/>
+        <entry field="true" id="107" symbol="BH_Time13_title"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="80" symbol="BH_subLabel8_title"/>
+        <entry field="true" id="77" symbol="BH_subLabel12_title"/>
+        <entry field="true" id="147" symbol="bhMaxPossible"/>
+        <entry field="true" id="75" symbol="unit_percent"/>
+        <entry field="true" id="99" symbol="BH_subLabel9_title"/>
+        <entry field="true" id="66" symbol="BH_subLabel13_title"/>
+        <entry field="true" id="149" symbol="bhTimeDefaut"/>
+        <entry field="true" id="148" symbol="bhLabelDefaut"/>
+        <entry field="true" id="76" symbol="BH_label1_title"/>
+        <entry id="8389747" method="true" symbol="onTimerStart"/>
+        <entry field="true" id="63" symbol="BH_label19_title"/>
+        <entry id="173" method="true" symbol="alarme"/>
+        <entry field="true" id="81" symbol="BH_Time8_title"/>
+        <entry field="true" id="102" symbol="AppName"/>
+        <entry id="176" method="true" symbol="formatSecondEnMinute"/>
+        <entry field="true" id="136" symbol="MenuLabelParametresPassageAutoON"/>
+        <entry field="true" id="96" symbol="BH_Time9_title"/>
+        <entry id="8389749" method="true" symbol="onTimerPause"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="146" symbol="bhMaxSaisie"/>
+        <entry id="24" method="true" symbol="calculTempsMinute"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="191" symbol="alerteTemps"/>
+        <entry field="true" id="105" symbol="MenuSousLabelBarrieres"/>
+        <entry field="true" id="141" symbol="bhLabel"/>
+        <entry field="true" id="166" symbol="mTimerRunning"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="51" symbol="BH_label9_title"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="33" method="true" symbol="CenterLayout"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry id="8390425" module="true" symbol="Properties"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="152" symbol="decalageVagueSec"/>
+        <entry field="true" id="168" symbol="mStepsSession"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8390422" method="true" symbol="onDone"/>
+        <entry id="17" object="true" symbol="NumberFactory"/>
+        <entry id="12" object="true" symbol="TimePicker"/>
+        <entry id="8390439" symbol="disabled"/>
+        <entry id="8388764" method="true" symbol="format"/>
+        <entry field="true" id="159" symbol="bhTimeChartField"/>
+        <entry field="true" id="115" symbol="BH_subLabel1_title"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="8389630" method="true" symbol="getSize"/>
+        <entry field="true" id="46" symbol="BH1_Label_length_Error"/>
+        <entry id="26" module="true" symbol="Menus"/>
+        <entry field="true" id="93" symbol="BH_subLabel2_title"/>
+        <entry id="30" method="true" symbol="MidTopSmallLayout"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry field="true" id="109" symbol="MenuLabelAlarmeON"/>
+        <entry id="174" method="true" symbol="calculStat"/>
+        <entry id="8389850" symbol="count"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="82" symbol="BH_label12_title"/>
+        <entry field="true" id="62" symbol="BH_Time20_title"/>
+        <entry field="true" id="67" symbol="BH_Time1_title"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="134" symbol="BH_Time14_title"/>
+        <entry field="true" id="10" symbol="MINUTE_FORMAT"/>
+        <entry field="true" id="124" symbol="BH_label13_title"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="95" symbol="BH_Time2_title"/>
+        <entry id="177" method="true" symbol="formatSecondEnHM"/>
+        <entry field="true" id="69" symbol="BH_subLabel20_title"/>
+        <entry field="true" id="85" symbol="MenuLabelParametresPassageAutoOFF"/>
+        <entry field="true" id="71" symbol="BH_Time15_title"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry field="true" id="64" symbol="DecalageVague_title"/>
+        <entry field="true" id="59" symbol="batteryGraph_label"/>
+        <entry field="true" id="114" symbol="BH_label14_title"/>
+        <entry field="true" id="126" symbol="BH_subLabel14_title"/>
+        <entry field="true" id="156" symbol="alarmeTemps2Actif"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry field="true" id="78" symbol="BH_subLabel15_title"/>
+        <entry id="8389644" symbol="defaults"/>
+        <entry field="true" id="68" symbol="BH_label2_title"/>
+        <entry id="13" object="true" symbol="TimePickerDelegate"/>
+        <entry id="182" method="true" symbol="readKey"/>
+        <entry field="true" id="44" symbol="BH_subLabel16_title"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="16" object="true" symbol="DataFieldAlertView"/>
+        <entry field="true" id="119" symbol="BH_label3_title"/>
+        <entry field="true" id="42" symbol="data_label"/>
+        <entry field="true" id="171" symbol="layoutOK"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="34" method="true" symbol="OtherLayout"/>
+        <entry id="8389752" method="true" symbol="onTimerReset"/>
+        <entry field="true" id="129" symbol="battery_label"/>
+        <entry field="true" id="135" symbol="unit_step"/>
+        <entry id="8389628" method="true" symbol="getDrawable"/>
+        <entry id="178" method="true" symbol="recupInfoBH"/>
+        <entry field="true" id="143" symbol="bhTime"/>
+        <entry id="8388985" method="true" symbol="playTone"/>
+        <entry field="true" id="160" symbol="bhTimeLapField"/>
+        <entry field="true" id="121" symbol="Barrieres2Alerte"/>
+        <entry field="true" id="8390438" symbol="enabled"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="29" method="true" symbol="MidTopLayout"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry field="true" id="22" symbol="menu2"/>
+        <entry field="true" id="20" symbol="layoutResources"/>
+        <entry field="true" id="122" symbol="MenuLabel"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="179" method="true" symbol="recupProperties"/>
+        <entry field="true" id="61" symbol="BH_subLabel3_title"/>
+        <entry id="172" method="true" symbol="FIT"/>
+        <entry field="true" id="55" symbol="BH_subLabel4_title"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="9" symbol="HEURE_FORMAT"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="192" symbol="couleurFond"/>
+        <entry id="180" method="true" symbol="controleParamBH"/>
+        <entry field="true" id="8389130" symbol="mColor"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="73" symbol="BH_label20_title"/>
+        <entry field="true" id="49" symbol="field_units"/>
+        <entry field="true" id="27" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="116" symbol="BH_Time3_title"/>
+        <entry field="true" id="187" symbol="mIncrement"/>
+        <entry field="true" id="157" symbol="alarmeTemps3"/>
+        <entry field="true" id="155" symbol="alarmeTemps2"/>
+        <entry field="true" id="153" symbol="alarmeTemps1"/>
+        <entry field="true" id="101" symbol="BH_Time16_title"/>
+        <entry field="true" id="88" symbol="BH_label15_title"/>
+        <entry field="true" id="50" symbol="BH_Time4_title"/>
+        <entry field="true" id="167" symbol="mStepsGlobal"/>
+        <entry field="true" id="123" symbol="BH_Time17_title"/>
+        <entry field="true" id="52" symbol="BH_label16_title"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="162" symbol="bhBatterySumField"/>
+        <entry field="true" id="90" symbol="BH_Time5_title"/>
+        <entry field="true" id="58" symbol="BH_Time18_title"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="118" symbol="BH_subLabel17_title"/>
+        <entry field="true" id="185" symbol="mStart"/>
+        <entry field="true" id="161" symbol="bhStepSumField"/>
+        <entry field="true" id="98" symbol="BH_label4_title"/>
+        <entry field="true" id="60" symbol="unit_vide"/>
+        <entry field="true" id="56" symbol="MenuSousLabelGoBarriere"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="100" symbol="unit_percentBattery"/>
+        <entry field="true" id="110" symbol="BH_subLabel18_title"/>
+        <entry field="true" id="140" symbol="&lt;globals/BHView/&lt;&gt;_positions&gt;"/>
+        <entry field="true" id="57" symbol="BH_label5_title"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="45" symbol="MenuLabelAlarmeOFF"/>
+        <entry field="true" id="128" symbol="lap_label"/>
+        <entry id="8389780" module="true" symbol="FitContributor"/>
+        <entry field="true" id="138" symbol="view"/>
+        <entry id="175" method="true" symbol="GestNbStep"/>
+        <entry id="8389541" method="true" symbol="onCancel"/>
+        <entry field="true" id="74" symbol="MenuLabelAlarme"/>
+        <entry id="8391703" method="true" symbol="getSettingsView"/>
+        <entry id="8390749" method="true" symbol="onWrap"/>
+        <entry id="31" method="true" symbol="MidBottomLayout"/>
+        <entry id="14" object="true" symbol="BHApp"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="144" symbol="bhTimeSec"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="111" symbol="MenuSousLabelLastBarriere"/>
+        <entry id="183" method="true" symbol="&lt;globals/BHView/&lt;&gt;preCalculate&gt;"/>
+        <entry field="true" id="8389128" symbol="mFont"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="108" symbol="DefautLabelBarrieres"/>
+        <entry id="184" method="true" symbol="splitStoredTime"/>
+        <entry field="true" id="8388732" symbol="elapsedTime"/>
+        <entry id="181" method="true" symbol="readKeyInt"/>
+        <entry id="189" method="true" symbol="getIndex"/>
+        <entry field="true" id="86" symbol="MenuSousLabelBarriereSuivante"/>
+        <entry field="true" id="70" symbol="AppVersionTitle"/>
+        <entry field="true" id="25" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry field="true" id="40" symbol="Layout5"/>
+        <entry field="true" id="39" symbol="Layout4"/>
+        <entry field="true" id="38" symbol="Layout3"/>
+        <entry field="true" id="37" symbol="Layout2"/>
+        <entry field="true" id="36" symbol="Layout1"/>
+        <entry field="true" id="35" symbol="Layout0"/>
+        <entry id="8389643" symbol="pattern"/>
+        <entry id="8389750" method="true" symbol="onTimerResume"/>
+        <entry field="true" id="165" symbol="mbatterySession"/>
+        <entry field="true" id="65" symbol="BH_Time10_title"/>
+        <entry field="true" id="89" symbol="BH_subLabel5_title"/>
+        <entry field="true" id="154" symbol="alarmeTemps1Actif"/>
+        <entry id="21" object="true" symbol="BHView"/>
+        <entry field="true" id="79" symbol="BH_length_Error"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="137" method="true" symbol="formatSecond"/>
+        <entry field="true" id="127" symbol="BH_Time11_title"/>
+        <entry field="true" id="113" symbol="BH_subLabel6_title"/>
+        <entry field="true" id="120" symbol="BH_subLabel10_title"/>
+        <entry field="true" id="48" symbol="field_label"/>
+        <entry field="true" id="103" symbol="BH_subLabel11_title"/>
+        <entry field="true" id="43" symbol="batteryData_label"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389642" symbol="title"/>
+        <entry field="true" id="164" symbol="mbatteryAvant"/>
+        <entry id="23" method="true" symbol="formatMinute"/>
+        <entry field="true" id="169" symbol="subLabel"/>
+        <entry field="true" id="117" symbol="BH_label17_title"/>
+        <entry field="true" id="104" symbol="BH_Time6_title"/>
+        <entry field="true" id="133" symbol="ValiderBarriereSuivante"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435500" name="dictionary" stackId="1" startPc="268435460"/>
+        <entry arg="true" endPc="268435516" name="color" stackId="1" startPc="268435502"/>
+        <entry arg="true" endPc="268435565" name="dc" stackId="1" startPc="268435517"/>
+        <entry endPc="268436137" name="factories" stackId="2" startPc="268435570"/>
+        <entry endPc="268436137" name="defaults" stackId="3" startPc="268435570"/>
+        <entry endPc="268436137" name="title" stackId="1" startPc="268435570"/>
+        <entry arg="true" endPc="268436175" name="dc" stackId="1" startPc="268436139"/>
+        <entry endPc="268436378" name="spaceIndex" stackId="5" startPc="268436180"/>
+        <entry endPc="268436378" name="defaults" stackId="3" startPc="268436180"/>
+        <entry endPc="268436378" name="separatorIndex" stackId="4" startPc="268436180"/>
+        <entry endPc="268436378" name="storedValue" stackId="2" startPc="268436180"/>
+        <entry arg="true" endPc="268436379" name="arraySize" stackId="1" startPc="268436176"/>
+        <entry arg="true" endPc="268436412" name="pitem" stackId="1" startPc="268436380"/>
+        <entry endPc="268436589" name="timeMinute" stackId="3" startPc="268436450"/>
+        <entry endPc="268436589" name="time" stackId="2" startPc="268436450"/>
+        <entry arg="true" endPc="268436590" name="values" stackId="1" startPc="268436446"/>
+        <entry arg="true" endPc="268436666" name="state" stackId="1" startPc="268436644"/>
+        <entry arg="true" endPc="268436689" name="state" stackId="1" startPc="268436667"/>
+        <entry endPc="268437688" name="bhMaxSaisie" stackId="2" startPc="268436931"/>
+        <entry endPc="268437688" name="ssTitre" stackId="3" startPc="268436931"/>
+        <entry endPc="268437688" name="bhActive" stackId="1" startPc="268436931"/>
+        <entry endPc="268437759" name="hrs" stackId="3" startPc="268437694"/>
+        <entry endPc="268437759" name="min" stackId="2" startPc="268437694"/>
+        <entry endPc="268437759" name="valueFormat" stackId="4" startPc="268437694"/>
+        <entry arg="true" endPc="268437760" name="time" stackId="1" startPc="268437690"/>
+        <entry endPc="268437882" name="min" stackId="3" startPc="268437765"/>
+        <entry endPc="268437882" name="hrs" stackId="2" startPc="268437765"/>
+        <entry endPc="268437882" name="valueFormat" stackId="4" startPc="268437765"/>
+        <entry arg="true" endPc="268437883" name="time" stackId="1" startPc="268437761"/>
+        <entry arg="true" endPc="268437936" name="backgroundColor" stackId="3" startPc="268437884"/>
+        <entry arg="true" endPc="268437936" name="nom" stackId="1" startPc="268437884"/>
+        <entry arg="true" endPc="268437936" name="temps" stackId="2" startPc="268437884"/>
+        <entry endPc="268438071" name="vibrateData" stackId="1" startPc="268438002"/>
+        <entry endPc="268438675" name="Barrieres2Alerte" stackId="5" startPc="268438080"/>
+        <entry endPc="268438675" name="alerteTempsText" stackId="6" startPc="268438080"/>
+        <entry endPc="268438675" name="couleurTexteAlerte" stackId="3" startPc="268438080"/>
+        <entry endPc="268438675" name="couleurFondAlerte" stackId="2" startPc="268438080"/>
+        <entry endPc="268438675" name="BarrieresAlerte" stackId="4" startPc="268438080"/>
+        <entry arg="true" endPc="268438676" name="dc" stackId="1" startPc="268438076"/>
+        <entry endPc="268438705" name="index" stackId="2" startPc="268438681"/>
+        <entry arg="true" endPc="268438706" name="value" stackId="1" startPc="268438677"/>
+        <entry arg="true" endPc="268438882" name="increment" stackId="3" startPc="268438707"/>
+        <entry arg="true" endPc="268438882" name="options" stackId="4" startPc="268438707"/>
+        <entry arg="true" endPc="268438882" name="stop" stackId="2" startPc="268438707"/>
+        <entry arg="true" endPc="268438882" name="start" stackId="1" startPc="268438707"/>
+        <entry arg="true" endPc="268439014" name="index" stackId="1" startPc="268438883"/>
+        <entry arg="true" endPc="268439014" name="selected" stackId="2" startPc="268438883"/>
+        <entry arg="true" endPc="268439040" name="index" stackId="1" startPc="268439015"/>
+        <entry arg="true" endPc="268439111" name="menu" stackId="1" startPc="268439079"/>
+        <entry endPc="268439602" name="bhMaxSaisie" stackId="4" startPc="268439148"/>
+        <entry endPc="268439602" name="ssTitre" stackId="5" startPc="268439148"/>
+        <entry endPc="268439602" name="bhActive" stackId="3" startPc="268439148"/>
+        <entry endPc="268439930" name="ident" stackId="10" startPc="268439737"/>
+        <entry endPc="268439943" name="i" stackId="9" startPc="268439737"/>
+        <entry endPc="268440050" name="bhMaxSaisie" stackId="8" startPc="268439625"/>
+        <entry endPc="268440050" name="CheckboxMenuBH" stackId="6" startPc="268439625"/>
+        <entry endPc="268440050" name="actif" stackId="7" startPc="268439625"/>
+        <entry endPc="268440881" name="ToggleAlarmeMenuBH" stackId="11" startPc="268440169"/>
+        <entry endPc="268440980" name="id" stackId="2" startPc="268439116"/>
+        <entry arg="true" endPc="268440981" name="item" stackId="1" startPc="268439112"/>
+        <entry arg="true" endPc="268441025" name="key" stackId="1" startPc="268441018"/>
+        <entry endPc="268441119" name="min" stackId="4" startPc="268441030"/>
+        <entry endPc="268441119" name="hrs" stackId="3" startPc="268441030"/>
+        <entry endPc="268441119" name="sec" stackId="2" startPc="268441030"/>
+        <entry endPc="268441119" name="valueFormat" stackId="5" startPc="268441030"/>
+        <entry arg="true" endPc="268441120" name="time" stackId="1" startPc="268441026"/>
+        <entry arg="true" endPc="268441153" name="menu" stackId="1" startPc="268441121"/>
+        <entry endPc="268441505" name="bhActive" stackId="3" startPc="268441225"/>
+        <entry endPc="268441746" name="id" stackId="2" startPc="268441158"/>
+        <entry arg="true" endPc="268441747" name="item" stackId="1" startPc="268441154"/>
+        <entry arg="true" endPc="268441821" name="key" stackId="1" startPc="268441814"/>
+        <entry endPc="268443326" name="activityInfo" stackId="1" startPc="268443110"/>
+        <entry endPc="268444410" name="elapsedTime" stackId="2" startPc="268443753"/>
+        <entry endPc="268444410" name="bhTimeSecDecale" stackId="3" startPc="268443753"/>
+        <entry endPc="268444410" name="delta" stackId="4" startPc="268443753"/>
+        <entry arg="true" endPc="268444433" name="info" stackId="1" startPc="268443681"/>
+        <entry arg="true" endPc="268444450" name="dc" stackId="1" startPc="268444434"/>
+        <entry endPc="268445487" name="subLabelC" stackId="3" startPc="268444455"/>
+        <entry endPc="268445487" name="labelC" stackId="2" startPc="268444455"/>
+        <entry endPc="268445487" name="value" stackId="4" startPc="268444455"/>
+        <entry arg="true" endPc="268445488" name="dc" stackId="1" startPc="268444451"/>
+        <entry arg="true" endPc="268445568" name="temps" stackId="2" startPc="268445489"/>
+        <entry arg="true" endPc="268445568" name="texte" stackId="1" startPc="268445489"/>
+        <entry endPc="268446000" name="variationBattery" stackId="8" startPc="268445925"/>
+        <entry endPc="268446040" name="lapData" stackId="4" startPc="268445573"/>
+        <entry endPc="268446040" name="valeurLap" stackId="6" startPc="268445573"/>
+        <entry endPc="268446040" name="graphData" stackId="3" startPc="268445573"/>
+        <entry endPc="268446040" name="batteryActuelle" stackId="7" startPc="268445573"/>
+        <entry endPc="268446040" name="elapsedTimeMin" stackId="5" startPc="268445573"/>
+        <entry arg="true" endPc="268446041" name="pelapsedTime" stackId="1" startPc="268445569"/>
+        <entry arg="true" endPc="268446041" name="pdelta" stackId="2" startPc="268445569"/>
+        <entry endPc="268446077" name="min" stackId="3" startPc="268446052"/>
+        <entry endPc="268446077" name="sec" stackId="2" startPc="268446052"/>
+        <entry arg="true" endPc="268446078" name="time" stackId="1" startPc="268446048"/>
+        <entry endPc="268446155" name="min" stackId="5" startPc="268446083"/>
+        <entry endPc="268446155" name="hrs" stackId="4" startPc="268446083"/>
+        <entry endPc="268446155" name="sec" stackId="3" startPc="268446083"/>
+        <entry endPc="268446155" name="valueFormat" stackId="6" startPc="268446083"/>
+        <entry arg="true" endPc="268446156" name="sep" stackId="2" startPc="268446079"/>
+        <entry arg="true" endPc="268446156" name="time" stackId="1" startPc="268446079"/>
+        <entry endPc="268446236" name="min" stackId="4" startPc="268446161"/>
+        <entry endPc="268446236" name="hrs" stackId="3" startPc="268446161"/>
+        <entry endPc="268446236" name="sec" stackId="2" startPc="268446161"/>
+        <entry endPc="268446236" name="valueFormat" stackId="5" startPc="268446161"/>
+        <entry arg="true" endPc="268446237" name="time" stackId="1" startPc="268446157"/>
+        <entry endPc="268446331" name="min" stackId="4" startPc="268446242"/>
+        <entry endPc="268446331" name="hrs" stackId="3" startPc="268446242"/>
+        <entry endPc="268446331" name="sec" stackId="2" startPc="268446242"/>
+        <entry endPc="268446331" name="valueFormat" stackId="5" startPc="268446242"/>
+        <entry arg="true" endPc="268446332" name="time" stackId="1" startPc="268446238"/>
+        <entry endPc="268446454" name="min" stackId="3" startPc="268446337"/>
+        <entry endPc="268446454" name="hrs" stackId="2" startPc="268446337"/>
+        <entry endPc="268446454" name="valueFormat" stackId="4" startPc="268446337"/>
+        <entry arg="true" endPc="268446455" name="time" stackId="1" startPc="268446333"/>
+        <entry arg="true" endPc="268446613" name="pBhActive" stackId="1" startPc="268446456"/>
+        <entry endPc="268447691" name="pbhTimeSaisie" stackId="6" startPc="268447006"/>
+        <entry endPc="268447895" name="pbhLabelSaisie" stackId="5" startPc="268446937"/>
+        <entry endPc="268447908" name="i" stackId="4" startPc="268446937"/>
+        <entry endPc="268447955" name="erreur" stackId="1" startPc="268446893"/>
+        <entry endPc="268447955" name="min" stackId="3" startPc="268446893"/>
+        <entry endPc="268447955" name="hrs" stackId="2" startPc="268446893"/>
+        <entry endPc="268448172" name="value" stackId="3" startPc="268447961"/>
+        <entry arg="true" endPc="268448173" name="thisDefault" stackId="2" startPc="268447957"/>
+        <entry arg="true" endPc="268448173" name="key" stackId="1" startPc="268447957"/>
+        <entry endPc="268448301" name="value" stackId="3" startPc="268448178"/>
+        <entry arg="true" endPc="268448302" name="thisDefault" stackId="2" startPc="268448174"/>
+        <entry arg="true" endPc="268448302" name="key" stackId="1" startPc="268448174"/>
+        <entry endPc="268448612" name="layoutWidth" stackId="9" startPc="268448417"/>
+        <entry endPc="268448612" name="index" stackId="8" startPc="268448417"/>
+        <entry endPc="268448612" name="layoutHeight" stackId="10" startPc="268448417"/>
+        <entry endPc="268448612" name="layoutFlags" stackId="11" startPc="268448417"/>
+        <entry endPc="268448625" name="i" stackId="7" startPc="268448417"/>
+        <entry endPc="268448625" name="height" stackId="3" startPc="268448307"/>
+        <entry endPc="268448625" name="flags" stackId="4" startPc="268448307"/>
+        <entry endPc="268448625" name="width" stackId="2" startPc="268448307"/>
+        <entry endPc="268448625" name="totalLayouts" stackId="6" startPc="268448307"/>
+        <entry endPc="268448625" name="layouts" stackId="5" startPc="268448307"/>
+        <entry arg="true" endPc="268448626" name="dc" stackId="1" startPc="268448303"/>
+        <entry endPc="268449534" name="rez_cmp_local_textarea_value" stackId="7" startPc="268448639"/>
+        <entry endPc="268449534" name="rez_cmp_local_custom_drawable_44278764913821975343" stackId="4" startPc="268448639"/>
+        <entry endPc="268449534" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268448639"/>
+        <entry endPc="268449534" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268448639"/>
+        <entry endPc="268449534" name="rez_cmp_local_textarea_label" stackId="5" startPc="268448639"/>
+        <entry endPc="268449534" name="rez_cmp_local_textarea_subLabel" stackId="6" startPc="268448639"/>
+        <entry arg="true" endPc="268449535" name="dc" stackId="1" startPc="268448627"/>
+        <entry endPc="268450380" name="rez_cmp_local_textarea_value" stackId="5" startPc="268449548"/>
+        <entry endPc="268450380" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268449548"/>
+        <entry endPc="268450380" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268449548"/>
+        <entry endPc="268450380" name="rez_cmp_local_custom_drawable_14165015405657445041" stackId="4" startPc="268449548"/>
+        <entry endPc="268450380" name="rez_cmp_local_textarea_label" stackId="7" startPc="268449548"/>
+        <entry endPc="268450380" name="rez_cmp_local_textarea_subLabel" stackId="6" startPc="268449548"/>
+        <entry arg="true" endPc="268450381" name="dc" stackId="1" startPc="268449536"/>
+        <entry endPc="268451146" name="rez_cmp_local_custom_drawable_11119235111802100642" stackId="4" startPc="268450394"/>
+        <entry endPc="268451146" name="rez_cmp_local_textarea_value" stackId="5" startPc="268450394"/>
+        <entry endPc="268451146" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268450394"/>
+        <entry endPc="268451146" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268450394"/>
+        <entry endPc="268451146" name="rez_cmp_local_textarea_label" stackId="7" startPc="268450394"/>
+        <entry endPc="268451146" name="rez_cmp_local_textarea_subLabel" stackId="6" startPc="268450394"/>
+        <entry arg="true" endPc="268451147" name="dc" stackId="1" startPc="268450382"/>
+        <entry endPc="268452055" name="rez_cmp_local_custom_drawable_40786741373014041585" stackId="4" startPc="268451160"/>
+        <entry endPc="268452055" name="rez_cmp_local_textarea_value" stackId="7" startPc="268451160"/>
+        <entry endPc="268452055" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268451160"/>
+        <entry endPc="268452055" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268451160"/>
+        <entry endPc="268452055" name="rez_cmp_local_textarea_label" stackId="5" startPc="268451160"/>
+        <entry endPc="268452055" name="rez_cmp_local_textarea_subLabel" stackId="6" startPc="268451160"/>
+        <entry arg="true" endPc="268452056" name="dc" stackId="1" startPc="268451148"/>
+        <entry endPc="268452821" name="rez_cmp_local_textarea_value" stackId="7" startPc="268452069"/>
+        <entry endPc="268452821" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268452069"/>
+        <entry endPc="268452821" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268452069"/>
+        <entry endPc="268452821" name="rez_cmp_local_custom_drawable_14764313451296556101" stackId="4" startPc="268452069"/>
+        <entry endPc="268452821" name="rez_cmp_local_textarea_label" stackId="5" startPc="268452069"/>
+        <entry endPc="268452821" name="rez_cmp_local_textarea_subLabel" stackId="6" startPc="268452069"/>
+        <entry arg="true" endPc="268452822" name="dc" stackId="1" startPc="268452057"/>
+        <entry endPc="268453651" name="rez_cmp_local_textarea_value" stackId="7" startPc="268452835"/>
+        <entry endPc="268453651" name="rez_cmp_local_custom_drawable_15332933281843892119" stackId="4" startPc="268452835"/>
+        <entry endPc="268453651" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268452835"/>
+        <entry endPc="268453651" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268452835"/>
+        <entry endPc="268453651" name="rez_cmp_local_textarea_label" stackId="5" startPc="268452835"/>
+        <entry endPc="268453651" name="rez_cmp_local_textarea_subLabel" stackId="6" startPc="268452835"/>
+        <entry arg="true" endPc="268453652" name="dc" stackId="1" startPc="268452823"/>
+        <entry endPc="268454406" name="rez_cmp_local_custom_drawable_18370016171495340527" stackId="4" startPc="268453665"/>
+        <entry endPc="268454406" name="rez_cmp_local_text_value" stackId="7" startPc="268453665"/>
+        <entry endPc="268454406" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268453665"/>
+        <entry endPc="268454406" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268453665"/>
+        <entry endPc="268454406" name="rez_cmp_local_textarea_label" stackId="5" startPc="268453665"/>
+        <entry endPc="268454406" name="rez_cmp_local_textarea_subLabel" stackId="6" startPc="268453665"/>
+        <entry arg="true" endPc="268454407" name="dc" stackId="1" startPc="268453653"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="edgeVersion" class="BHView" module="globals" symbol="FIT"/>
+        <annotationEntry annotation="edgeVersion" class="BHView" module="globals" symbol="GestNbStep"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="Layouts"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="Layout0"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="Layout1"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="Layout2"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="Layout3"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="Layout4"/>
+        <annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="Layout5"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel7_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="data_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="batteryData_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel16_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelAlarmeOFF"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH1_Label_length_Error"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelDecalage"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="field_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="field_units"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time4_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label9_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label16_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="step_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH1_Time_length_Error"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel4_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuSousLabelGoBarriere"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label5_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time18_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="batteryGraph_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="unit_vide"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel3_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time20_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label19_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DecalageVague_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time10_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel13_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time1_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label2_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel20_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppVersionTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time15_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label8_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label20_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelAlarme"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="unit_percent"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label1_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel12_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel15_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_length_Error"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel8_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time8_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label12_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time12_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="SousMenuLabelBarrieres"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelParametresPassageAutoOFF"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuSousLabelBarriereSuivante"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel19_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label15_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel5_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time5_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label18_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time19_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel2_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label11_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time2_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time9_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelParametresPassageAuto"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label4_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel9_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="unit_percentBattery"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time16_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel11_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time6_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuSousLabelBarrieres"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="isAutomatique_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time13_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DefautLabelBarrieres"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelAlarmeON"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel18_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuSousLabelLastBarriere"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label7_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel6_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label14_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel1_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time3_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label17_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel17_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label3_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel10_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Barrieres2Alerte"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabel"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time17_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label13_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time7_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_subLabel14_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time11_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="lap_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="battery_label"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelBarrieres"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label6_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_label10_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ValiderBarriereSuivante"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BH_Time14_title"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="unit_step"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MenuLabelParametresPassageAutoON"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/TimePickerDelegate" offset="246" parentId="globals" symbolId="TimePickerDelegate" type="class"/>
+        <dataEntry label="globals/Menu2SubMenuDelegate" offset="309" parentId="globals" symbolId="Menu2SubMenuDelegate" type="class"/>
+        <dataEntry label="globals/BHMenu" offset="396" parentId="globals" symbolId="BHMenu" type="class"/>
+        <dataEntry label="globals/Rez" offset="459" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="538" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="577" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="608" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="639" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="726" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="813" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/BHMenuDelegate" offset="1612" parentId="globals" symbolId="BHMenuDelegate" type="class"/>
+        <dataEntry label="globals/BHApp" offset="1699" parentId="globals" symbolId="BHApp" type="class"/>
+        <dataEntry label="globals/BHView" offset="1802" parentId="globals" symbolId="BHView" type="class"/>
+        <dataEntry label="globals/TimePicker" offset="2313" parentId="globals" symbolId="TimePicker" type="class"/>
+        <dataEntry label="globals/Background" offset="2376" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/NumberFactory" offset="2447" parentId="globals" symbolId="NumberFactory" type="class"/>
+        <dataEntry label="globals/DataFieldAlertView" offset="2566" parentId="globals" symbolId="DataFieldAlertView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435501" name="initialize" parent="Background" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435516" name="setColor" parent="Background" startPc="268435502">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435565" name="draw" parent="Background" startPc="268435517">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454682" name="&lt;init&gt;" parent="Background" startPc="268454664">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436138" name="initialize" parent="TimePicker" startPc="268435566">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436175" name="onUpdate" parent="TimePicker" startPc="268436139">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436379" name="splitStoredTime" parent="TimePicker" startPc="268436176">
+            <param id="arraySize"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454663" name="&lt;init&gt;" parent="TimePicker" startPc="268454645">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436412" name="initialize" parent="TimePickerDelegate" startPc="268436380">
+            <param id="pitem"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436445" name="onCancel" parent="TimePickerDelegate" startPc="268436413">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436590" name="onAccept" parent="TimePickerDelegate" startPc="268436446">
+            <param id="values"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454519" name="&lt;init&gt;" parent="TimePickerDelegate" startPc="268454501">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436643" name="initialize" parent="BHApp" startPc="268436591">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436666" name="onStart" parent="BHApp" startPc="268436644">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436689" name="onStop" parent="BHApp" startPc="268436667">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436763" name="getInitialView" parent="BHApp" startPc="268436690">
+            <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436859" name="getSettingsView" parent="BHApp" startPc="268436764">
+            <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436926" name="onSettingsChanged" parent="BHApp" startPc="268436860">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454625" name="&lt;init&gt;" parent="BHApp" startPc="268454607">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437689" name="initialize" parent="BHMenu" startPc="268436927">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437760" name="formatMinute" parent="BHMenu" startPc="268437690">
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437883" name="calculTempsMinute" parent="BHMenu" startPc="268437761">
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454557" name="&lt;init&gt;" parent="BHMenu" startPc="268454539">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437936" name="initialize" parent="DataFieldAlertView" startPc="268437884">
+            <param id="nom"/>
+            <param id="temps"/>
+            <param id="backgroundColor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438075" name="onShow" parent="DataFieldAlertView" startPc="268437937">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438676" name="onUpdate" parent="DataFieldAlertView" startPc="268438076">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454720" name="&lt;init&gt;" parent="DataFieldAlertView" startPc="268454702">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438706" name="getIndex" parent="NumberFactory" startPc="268438677">
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438882" name="initialize" parent="NumberFactory" startPc="268438707">
+            <param id="start"/>
+            <param id="stop"/>
+            <param id="increment"/>
+            <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439014" name="getDrawable" parent="NumberFactory" startPc="268438883">
+            <param id="index"/>
+            <param id="selected"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439040" name="getValue" parent="NumberFactory" startPc="268439015">
+            <param id="index"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439078" name="getSize" parent="NumberFactory" startPc="268439041">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454701" name="&lt;init&gt;" parent="NumberFactory" startPc="268454683">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439111" name="initialize" parent="BHMenuDelegate" startPc="268439079">
+            <param id="menu"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440981" name="onSelect" parent="BHMenuDelegate" startPc="268439112">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441017" name="onBack" parent="BHMenuDelegate" startPc="268440982">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441025" name="onWrap" parent="BHMenuDelegate" startPc="268441018">
+            <param id="key"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441120" name="formatSecond" parent="BHMenuDelegate" startPc="268441026">
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454606" name="&lt;init&gt;" parent="BHMenuDelegate" startPc="268454588">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441153" name="initialize" parent="Menu2SubMenuDelegate" startPc="268441121">
+            <param id="menu"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441747" name="onSelect" parent="Menu2SubMenuDelegate" startPc="268441154">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441780" name="onBack" parent="Menu2SubMenuDelegate" startPc="268441748">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441813" name="onDone" parent="Menu2SubMenuDelegate" startPc="268441781">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441821" name="onWrap" parent="Menu2SubMenuDelegate" startPc="268441814">
+            <param id="key"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454538" name="&lt;init&gt;" parent="Menu2SubMenuDelegate" startPc="268454520">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443099" name="initialize" parent="BHView" startPc="268441822">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443105" name="FIT" parent="BHView" startPc="268443100">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443327" name="onStart" parent="BHView" startPc="268443106">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443411" name="onStop" parent="BHView" startPc="268443328">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443502" name="onTimerStart" parent="BHView" startPc="268443412">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443538" name="onTimerResume" parent="BHView" startPc="268443503">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443583" name="onTimerStop" parent="BHView" startPc="268443539">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443628" name="onTimerPause" parent="BHView" startPc="268443584">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443680" name="onTimerReset" parent="BHView" startPc="268443629">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268444433" name="compute" parent="BHView" startPc="268443681">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268444450" name="onLayout" parent="BHView" startPc="268444434">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268445488" name="onUpdate" parent="BHView" startPc="268444451">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268445568" name="alarme" parent="BHView" startPc="268445489">
+            <param id="texte"/>
+            <param id="temps"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446041" name="calculStat" parent="BHView" startPc="268445569">
+            <param id="pelapsedTime"/>
+            <param id="pdelta"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446047" name="GestNbStep" parent="BHView" startPc="268446042">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446078" name="formatSecondEnMinute" parent="BHView" startPc="268446048">
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446156" name="formatSecondEnHM" parent="BHView" startPc="268446079">
+            <param id="time"/>
+            <param id="sep"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446237" name="formatSecond" parent="BHView" startPc="268446157">
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446332" name="formatMinute" parent="BHView" startPc="268446238">
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446455" name="calculTempsMinute" parent="BHView" startPc="268446333">
+            <param id="time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446613" name="recupInfoBH" parent="BHView" startPc="268446456">
+            <param id="pBhActive"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268446888" name="recupProperties" parent="BHView" startPc="268446614">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268447956" name="controleParamBH" parent="BHView" startPc="268446889">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268448173" name="readKeyInt" parent="BHView" startPc="268447957">
+            <param id="key"/>
+            <param id="thisDefault"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268448302" name="readKey" parent="BHView" startPc="268448174">
+            <param id="key"/>
+            <param id="thisDefault"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268448626" name="&lt;globals/BHView/&lt;&gt;preCalculate&gt;" parent="BHView" startPc="268448303">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454644" name="&lt;init&gt;" parent="BHView" startPc="268454626">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454582" name="&lt;init&gt;" parent="Drawables" startPc="268454582">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454584" name="&lt;init&gt;" parent="Fonts" startPc="268454584">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454586" name="&lt;init&gt;" parent="JsonData" startPc="268454586">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268449535" name="MainLayout" parent="Layouts" startPc="268448627">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268450381" name="MidTopLayout" parent="Layouts" startPc="268449536">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268451147" name="MidTopSmallLayout" parent="Layouts" startPc="268450382">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268452056" name="MidBottomLayout" parent="Layouts" startPc="268451148">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268452822" name="MidBottomSmallLayout" parent="Layouts" startPc="268452057">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268453652" name="CenterLayout" parent="Layouts" startPc="268452823">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268454407" name="OtherLayout" parent="Layouts" startPc="268453653">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454585" name="&lt;init&gt;" parent="Layouts" startPc="268454585">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454583" name="&lt;init&gt;" parent="Menus" startPc="268454583">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454587" name="&lt;init&gt;" parent="Strings" startPc="268454587">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268454581" name="&lt;init&gt;" parent="Rez" startPc="268454558">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

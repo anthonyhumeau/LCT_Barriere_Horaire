@@ -1,0 +1,16 @@
+<resources>
+  <jsonData id="Layouts">[416,416,15,416,207,7,416,207,13,416,132,7,416,146,5,416,132,13,416,147,7,416,132,5,416,142,13,416,103,5,416,87,5,416,142,7,416,147,13]</jsonData>
+  <jsonData id="Layout0">"MainLayout"</jsonData>
+  <jsonData id="Layout1">"MidTopLayout"</jsonData>
+  <jsonData id="Layout2">"MidBottomLayout"</jsonData>
+  <jsonData id="Layout3">"MidTopSmallLayout"</jsonData>
+  <jsonData id="Layout4">"CenterLayout"</jsonData>
+  <jsonData id="Layout5">"MidBottomSmallLayout"</jsonData>
+  <jsonData id="Layout6">"MidTopSmallLayout"</jsonData>
+  <jsonData id="Layout7">"CenterLayout"</jsonData>
+  <jsonData id="Layout8">"MidBottomSmallLayout"</jsonData>
+  <jsonData id="Layout9">"CenterLayout"</jsonData>
+  <jsonData id="Layout10">"CenterLayout"</jsonData>
+  <jsonData id="Layout11">"MidTopSmallLayout"</jsonData>
+  <jsonData id="Layout12">"MidBottomSmallLayout"</jsonData>
+</resources>

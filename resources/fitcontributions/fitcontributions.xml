@@ -1,0 +1,59 @@
+<resources>
+	<fitContributions>
+        
+         <fitField 
+        id="0" 
+        displayInChart="false"
+        displayInActivitySummary="false"
+        displayInActivityLaps="true"
+        sortOrder="0" 
+        precision="0" 
+        dataLabel="@Strings.lap_label" 
+        unitLabel="@Strings.unit_vide"/>
+       
+        <fitField 
+        id="1" 
+        displayInChart="true" 
+        displayInActivitySummary="false" 
+        displayInActivityLaps="false"
+        sortOrder="1" 
+        precision="0" 
+        dataLabel="@Strings.data_label" 
+        chartTitle="@Strings.field_label" 
+        fillColor="#0068c8" 
+        unitLabel="@Strings.field_units"/>
+        
+         <fitField 
+        id="2" 
+        displayInChart="false"
+        displayInActivitySummary="true"
+        displayInActivityLaps="false"
+        sortOrder="2" 
+        precision="0" 
+        dataLabel="@Strings.step_label" 
+        unitLabel="@Strings.unit_step"/>
+        
+         <fitField 
+        id="3" 
+        displayInChart="false"
+        displayInActivitySummary="true"
+        displayInActivityLaps="false"
+        sortOrder="3" 
+        precision="0" 
+        dataLabel="@Strings.battery_label" 
+        unitLabel="@Strings.unit_percent"/>
+        
+         <fitField 
+        id="4" 
+        displayInChart="true" 
+        displayInActivitySummary="false" 
+        displayInActivityLaps="false"
+        sortOrder="4" 
+        precision="0" 
+        dataLabel="@Strings.batteryGraph_label" 
+        chartTitle="@Strings.batteryData_label" 
+        fillColor="#0068c8" 
+        unitLabel="@Strings.unit_percentBattery"/>
+        
+	</fitContributions>
+</resources>

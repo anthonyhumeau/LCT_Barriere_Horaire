@@ -1,0 +1,156 @@
+<layouts>
+	<!-- A generic, centered layout. -->
+	<layout id="MainLayout">
+		<drawable class="Background"/>
+		<text-area id="label" x="center" y="30%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+       	 		<font>Graphics.FONT_SYSTEM_LARGE</font>
+      	  		<font>Graphics.FONT_SYSTEM_MEDIUM</font>
+        		<font>Graphics.FONT_SYSTEM_SMALL</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="subLabel" x="center" y="45%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+       	 		<font>Graphics.FONT_SYSTEM_SMALL</font>
+      	  		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="value" x="center" y="52%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+       	 		<font>Graphics.FONT_SYSTEM_NUMBER_HOT</font>
+      	  		<font>Graphics.FONT_SYSTEM_NUMBER_MEDIUM</font>
+        		<font>Graphics.FONT_SYSTEM_NUMBER_MILD</font>
+    		</fonts>
+    	</text-area>
+	</layout>
+	<!-- 2 Fields Layout Haut ou 3 Fields C Layout haut -->
+	<layout id="MidTopLayout">
+		<drawable class="Background"/>
+		<text-area id="value" x="center" y="8%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+      	  		<font>Graphics.FONT_SYSTEM_NUMBER_MEDIUM</font>
+        		<font>Graphics.FONT_SYSTEM_NUMBER_MILD</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="subLabel" x="center" y="52%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+      	  		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="label" x="center" y="70%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+      	  		<font>Graphics.FONT_SYSTEM_MEDIUM</font>
+        		<font>Graphics.FONT_SYSTEM_SMALL</font>
+      	  		<font>Graphics.FONT_SYSTEM_TINY</font>
+    		</fonts>
+    	</text-area>
+	</layout><!-- Layout Haut en SMALL-->
+	<layout id="MidTopSmallLayout">
+		<drawable class="Background"/>
+		<text-area id="value" x="center" y="top" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_NUMBER_MILD</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="subLabel" x="center" y="53%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="label" x="center" y="69%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+      	  		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+	</layout>
+	<!-- 2 Fields Layout bas -->
+	<layout id="MidBottomLayout">
+		<drawable class="Background"/>
+		<text-area id="label" x="center" y="top" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+      	  		<font>Graphics.FONT_SYSTEM_MEDIUM</font>
+        		<font>Graphics.FONT_SYSTEM_SMALL</font>
+      	  		<font>Graphics.FONT_SYSTEM_TINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="subLabel" x="center" y="27%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+      	  		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="value" x="center" y="40%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+      	  		<font>Graphics.FONT_SYSTEM_NUMBER_MEDIUM</font>
+        		<font>Graphics.FONT_SYSTEM_NUMBER_MILD</font>
+    		</fonts>
+    	</text-area>
+	</layout>
+	<!-- Layout bas en Small -->
+	<layout id="MidBottomSmallLayout">
+		<drawable class="Background"/>
+		<text-area id="label" x="center" y="top" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_TINY</font>
+      	  		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="subLabel" x="center" y="31%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="value" x="center" y="40%" width="100%" height="100%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_NUMBER_MILD</font>
+    		</fonts>
+    	</text-area>
+	</layout>
+	<!-- Center Layout -->
+	<layout id="CenterLayout">
+		<drawable class="Background"/>
+		<text-area id="label" x="2%" y="10%" width="60%" height="50%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_SMALL</font>
+        		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="subLabel" x="2%" y="65%" width="60%" height="50%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_SMALL</font>
+        		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="value" x="right" y="27%" width="40%" height="80%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_NUMBER_MEDIUM</font>
+        		<font>Graphics.FONT_SYSTEM_NUMBER_MILD</font>
+        		<font>Graphics.FONT_SYSTEM_LARGE</font>
+    		</fonts>
+    	</text-area>
+	</layout>
+	<!-- autre non gérée -->
+	<layout id="OtherLayout">
+		<drawable class="Background"/>
+		<text-area id="label" x="center" y="top" width="100%" height="50%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+       	 		<font>Graphics.FONT_SYSTEM_SMALL</font>
+      	  		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<text-area id="subLabel" x="center" y="bottom" width="100%" height="50%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" >
+			<fonts>
+        		<font>Graphics.FONT_SYSTEM_SMALL</font>
+        		<font>Graphics.FONT_SYSTEM_TINY</font>
+        		<font>Graphics.FONT_SYSTEM_XTINY</font>
+    		</fonts>
+    	</text-area>
+		<label id="value" x="center" y="0%" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Graphics.FONT_SYSTEM_NUMBER_MEDIUM"/>
+	</layout>
+</layouts>

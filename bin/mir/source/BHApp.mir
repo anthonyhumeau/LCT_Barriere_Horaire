@@ -1,0 +1,117 @@
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 1; ]
+using Toybox.Application;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 2; ]
+using Toybox.WatchUi;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 4; ]
+class BHApp extends Application.AppBase{
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 6; ]
+    var view;
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 7; ]
+    var menu;
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 9; ]
+    function initialize() as Void {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 10 ]
+        %tmp.2 = getv ? :AppBase;
+        %tmp.3 = getv const %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 12 ]
+        %tmp.7 = getv ? :BHView;
+        %tmp.4 = newc %tmp.7;
+        %tmp.8 = dup %tmp.4;
+        %tmp.9 = getv const %tmp.8 :initialize;
+        %tmp.10 = dup %tmp.4;
+        invoke %tmp.10 %tmp.9();
+        putv self :view %tmp.4;
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 16; ]
+    function onStart(state) {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 17 ]
+        %tmp.2 = getv ? :view;
+        %tmp.3 = getv const %tmp.2 :onStart;
+        invoke %tmp.2 %tmp.3();
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 21; ]
+    function onStop(state) {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 22 ]
+        %tmp.2 = getv ? :view;
+        %tmp.3 = getv const %tmp.2 :onStop;
+        invoke %tmp.2 %tmp.3();
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 26; ]
+    function getInitialView() {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 27 ]
+        %tmp.1 = null;
+        %tmp.3 = getv ? :view;
+        %tmp.4 = eq %tmp.1 %tmp.3;
+        bf %tmp.4 @D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_27_5_end;
+D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_27_5_if:
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 28 ]
+        %tmp.8 = getv ? :BHView;
+        %tmp.5 = newc %tmp.8;
+        %tmp.9 = dup %tmp.5;
+        %tmp.10 = getv const %tmp.9 :initialize;
+        %tmp.11 = dup %tmp.5;
+        invoke %tmp.11 %tmp.10();
+        putv self :view %tmp.5;
+        goto @D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_27_5_end;
+D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_27_5_end:
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 30 ]
+        %tmp.12 = newa 1;
+        %tmp.14 = getv ? :view;
+        %tmp.15 = dup %tmp.12;
+        %tmp.16 = aputv %tmp.15 0 %tmp.14;
+        ret %tmp.16;
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 35; ]
+    function getSettingsView() {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 36 ]
+        %tmp.4 = getv ? :BHMenu;
+        %tmp.1 = newc %tmp.4;
+        %tmp.5 = dup %tmp.1;
+        %tmp.6 = getv const %tmp.5 :initialize;
+        %tmp.7 = dup %tmp.1;
+        invoke %tmp.7 %tmp.6();
+        putv self :menu %tmp.1;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 37 ]
+        %tmp.8 = newa 2;
+        %tmp.10 = getv ? :menu;
+        %tmp.11 = dup %tmp.8;
+        %tmp.12 = aputv %tmp.11 0 %tmp.10;
+        %tmp.16 = getv ? :BHMenuDelegate;
+        %tmp.13 = newc %tmp.16;
+        %tmp.17 = dup %tmp.13;
+        %tmp.18 = getv const %tmp.17 :initialize;
+        %tmp.19 = dup %tmp.13;
+        %tmp.21 = getv ? :menu;
+        invoke %tmp.19 %tmp.18(%tmp.21);
+        %tmp.22 = dup %tmp.12;
+        %tmp.23 = aputv %tmp.22 1 %tmp.13;
+        ret %tmp.23;
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc"; @line = 41; ]
+    function onSettingsChanged() {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 42 ]
+        %tmp.1 = null;
+        %tmp.3 = getv ? :view;
+        %tmp.4 = ne %tmp.1 %tmp.3;
+        bf %tmp.4 @D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_42_5_end;
+D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_42_5_if:
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 44 ]
+        %tmp.6 = getv ? :Storage;
+        %tmp.7 = getv const %tmp.6 :setValue;
+        %tmp.8 = "bhActive";
+        %tmp.9 = 1;
+        invoke %tmp.6 %tmp.7(%tmp.8, %tmp.9);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHApp.mc" 46 ]
+        %tmp.11 = getv ? :view;
+        %tmp.12 = getv const %tmp.11 :controleParamBH;
+        invoke %tmp.11 %tmp.12();
+        goto @D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_42_5_end;
+D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHApp_mc_42_5_end:
+    }
+}
+<init> {
+}

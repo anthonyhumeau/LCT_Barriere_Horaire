@@ -1,0 +1,358 @@
+<resources>
+	<properties>
+		<property id="isAutomatique" type="boolean">false</property>
+		<property id="DecalageVague" type="number">0</property>
+		<property id="BH_label1" type="string">Aucune Barrière</property>
+		<property id="BH_subLabel1" type="string">Aucun</property>
+		<property id="BH_Time1" type="string">0:00</property>
+		<property id="BH_label2" type="string"></property>
+		<property id="BH_subLabel2" type="string"></property>
+		<property id="BH_Time2" type="string"></property>
+		<property id="BH_label3" type="string"></property>
+		<property id="BH_subLabel3" type="string"></property>
+		<property id="BH_Time3" type="string"></property>
+		<property id="BH_label4" type="string"></property>
+		<property id="BH_subLabel4" type="string"></property>
+		<property id="BH_Time4" type="string"></property>
+		<property id="BH_label5" type="string"></property>
+		<property id="BH_subLabel5" type="string"></property>
+		<property id="BH_Time5" type="string"></property>
+		<property id="BH_label6" type="string"></property>
+		<property id="BH_subLabel6" type="string"></property>
+		<property id="BH_Time6" type="string"></property>
+		<property id="BH_label7" type="string"></property>
+		<property id="BH_subLabel7" type="string"></property>
+		<property id="BH_Time7" type="string"></property>
+		<property id="BH_label8" type="string"></property>
+		<property id="BH_subLabel8" type="string"></property>
+		<property id="BH_Time8" type="string"></property>
+		<property id="BH_label9" type="string"></property>
+		<property id="BH_subLabel9" type="string"></property>
+		<property id="BH_Time9" type="string"></property>
+		<property id="BH_label10" type="string"></property>
+		<property id="BH_subLabel10" type="string"></property>
+		<property id="BH_Time10" type="string"></property>
+		<property id="BH_label11" type="string"></property>
+		<property id="BH_subLabel11" type="string"></property>
+		<property id="BH_Time11" type="string"></property>
+		<property id="BH_label12" type="string"></property>
+		<property id="BH_subLabel12" type="string"></property>
+		<property id="BH_Time12" type="string"></property>
+		<property id="BH_label13" type="string"></property>
+		<property id="BH_subLabel13" type="string"></property>
+		<property id="BH_Time13" type="string"></property>
+		<property id="BH_label14" type="string"></property>
+		<property id="BH_subLabel14" type="string"></property>
+		<property id="BH_Time14" type="string"></property>
+		<property id="BH_label15" type="string"></property>
+		<property id="BH_subLabel15" type="string"></property>
+		<property id="BH_Time15" type="string"></property>
+		<property id="BH_label16" type="string"></property>
+		<property id="BH_subLabel16" type="string"></property>
+		<property id="BH_Time16" type="string"></property>
+		<property id="BH_label17" type="string"></property>
+		<property id="BH_subLabel17" type="string"></property>
+		<property id="BH_Time17" type="string"></property>
+		<property id="BH_label18" type="string"></property>
+		<property id="BH_subLabel18" type="string"></property>
+		<property id="BH_Time18" type="string"></property>
+		<property id="BH_label19" type="string"></property>
+		<property id="BH_subLabel19" type="string"></property>
+		<property id="BH_Time19" type="string"></property>
+		<property id="BH_label20" type="string"></property>
+		<property id="BH_subLabel20" type="string"></property>
+		<property id="BH_Time20" type="string"></property>
+	</properties>
+	<settings>
+		<setting title="@Strings.isAutomatique_title"
+			propertyKey="@Properties.isAutomatique">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting title="@Strings.DecalageVague_title"
+			propertyKey="@Properties.DecalageVague">
+			<settingConfig type="numeric" min="0" max="1439"
+				required="true" />
+		</setting>
+		<setting title="@Strings.BH_label1_title"
+			propertyKey="@Properties.BH_label1">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH1_Label_length_Error" required="true" />
+		</setting>
+		<setting title="@Strings.BH_subLabel1_title"
+			propertyKey="@Properties.BH_subLabel1">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time1_title"
+			propertyKey="@Properties.BH_Time1">
+			<settingConfig type="alphaNumeric"
+				errorMessage="@Strings.BH1_Time_length_Error" required="true" />
+		</setting>
+		<setting title="@Strings.BH_label2_title"
+			propertyKey="@Properties.BH_label2">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel2_title"
+			propertyKey="@Properties.BH_subLabel2">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time2_title"
+			propertyKey="@Properties.BH_Time2">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label3_title"
+			propertyKey="@Properties.BH_label3">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel3_title"
+			propertyKey="@Properties.BH_subLabel3">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time3_title"
+			propertyKey="@Properties.BH_Time3">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label4_title"
+			propertyKey="@Properties.BH_label4">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel4_title"
+			propertyKey="@Properties.BH_subLabel4">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time4_title"
+			propertyKey="@Properties.BH_Time4">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label5_title"
+			propertyKey="@Properties.BH_label5">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel5_title"
+			propertyKey="@Properties.BH_subLabel5">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time5_title"
+			propertyKey="@Properties.BH_Time5">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label6_title"
+			propertyKey="@Properties.BH_label6">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel6_title"
+			propertyKey="@Properties.BH_subLabel6">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time6_title"
+			propertyKey="@Properties.BH_Time6">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label7_title"
+			propertyKey="@Properties.BH_label7">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel7_title"
+			propertyKey="@Properties.BH_subLabel7">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time7_title"
+			propertyKey="@Properties.BH_Time7">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label8_title"
+			propertyKey="@Properties.BH_label8">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel8_title"
+			propertyKey="@Properties.BH_subLabel8">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time8_title"
+			propertyKey="@Properties.BH_Time8">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label9_title"
+			propertyKey="@Properties.BH_label9">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel9_title"
+			propertyKey="@Properties.BH_subLabel9">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time9_title"
+			propertyKey="@Properties.BH_Time9">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label10_title"
+			propertyKey="@Properties.BH_label10">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel10_title"
+			propertyKey="@Properties.BH_subLabel10">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time10_title"
+			propertyKey="@Properties.BH_Time10">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label11_title"
+			propertyKey="@Properties.BH_label11">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel11_title"
+			propertyKey="@Properties.BH_subLabel11">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time11_title"
+			propertyKey="@Properties.BH_Time11">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label12_title"
+			propertyKey="@Properties.BH_label12">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel12_title"
+			propertyKey="@Properties.BH_subLabel12">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time12_title"
+			propertyKey="@Properties.BH_Time12">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label13_title"
+			propertyKey="@Properties.BH_label13">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel13_title"
+			propertyKey="@Properties.BH_subLabel13">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time13_title"
+			propertyKey="@Properties.BH_Time13">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label14_title"
+			propertyKey="@Properties.BH_label14">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel14_title"
+			propertyKey="@Properties.BH_subLabel14">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time14_title"
+			propertyKey="@Properties.BH_Time14">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label15_title"
+			propertyKey="@Properties.BH_label15">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel15_title"
+			propertyKey="@Properties.BH_subLabel15">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time15_title"
+			propertyKey="@Properties.BH_Time15">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label16_title"
+			propertyKey="@Properties.BH_label16">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel16_title"
+			propertyKey="@Properties.BH_subLabel16">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time16_title"
+			propertyKey="@Properties.BH_Time16">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label17_title"
+			propertyKey="@Properties.BH_label17">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel17_title"
+			propertyKey="@Properties.BH_subLabel17">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time17_title"
+			propertyKey="@Properties.BH_Time17">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label18_title"
+			propertyKey="@Properties.BH_label18">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel18_title"
+			propertyKey="@Properties.BH_subLabel18">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time18_title"
+			propertyKey="@Properties.BH_Time18">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label19_title"
+			propertyKey="@Properties.BH_label19">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel19_title"
+			propertyKey="@Properties.BH_subLabel19">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time19_title"
+			propertyKey="@Properties.BH_Time19">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting title="@Strings.BH_label20_title"
+			propertyKey="@Properties.BH_label20">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_subLabel20_title"
+			propertyKey="@Properties.BH_subLabel20">
+			<settingConfig type="alphaNumeric" maxLength="15"
+				errorMessage="@Strings.BH_length_Error" />
+		</setting>
+		<setting title="@Strings.BH_Time20_title"
+			propertyKey="@Properties.BH_Time20">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+	</settings>
+</resources>

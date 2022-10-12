@@ -1,0 +1,46 @@
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source-fenix6xpro\constants.mc"; @line = 1; ]
+const layoutResources;
+<init> {
+    [ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source-fenix6xpro\constants.mc" 1 ]
+    %tmp.1 = newa 13;
+    %tmp.2 = :Layout0;
+    %tmp.3 = dup %tmp.1;
+    %tmp.4 = aputv %tmp.3 0 %tmp.2;
+    %tmp.5 = :Layout1;
+    %tmp.6 = dup %tmp.4;
+    %tmp.7 = aputv %tmp.6 1 %tmp.5;
+    %tmp.8 = :Layout2;
+    %tmp.9 = dup %tmp.7;
+    %tmp.10 = aputv %tmp.9 2 %tmp.8;
+    %tmp.11 = :Layout3;
+    %tmp.12 = dup %tmp.10;
+    %tmp.13 = aputv %tmp.12 3 %tmp.11;
+    %tmp.14 = :Layout4;
+    %tmp.15 = dup %tmp.13;
+    %tmp.16 = aputv %tmp.15 4 %tmp.14;
+    %tmp.17 = :Layout5;
+    %tmp.18 = dup %tmp.16;
+    %tmp.19 = aputv %tmp.18 5 %tmp.17;
+    %tmp.20 = :Layout6;
+    %tmp.21 = dup %tmp.19;
+    %tmp.22 = aputv %tmp.21 6 %tmp.20;
+    %tmp.23 = :Layout7;
+    %tmp.24 = dup %tmp.22;
+    %tmp.25 = aputv %tmp.24 7 %tmp.23;
+    %tmp.26 = :Layout8;
+    %tmp.27 = dup %tmp.25;
+    %tmp.28 = aputv %tmp.27 8 %tmp.26;
+    %tmp.29 = :Layout9;
+    %tmp.30 = dup %tmp.28;
+    %tmp.31 = aputv %tmp.30 9 %tmp.29;
+    %tmp.32 = :Layout10;
+    %tmp.33 = dup %tmp.31;
+    %tmp.34 = aputv %tmp.33 10 %tmp.32;
+    %tmp.35 = :Layout11;
+    %tmp.36 = dup %tmp.34;
+    %tmp.37 = aputv %tmp.36 11 %tmp.35;
+    %tmp.38 = :Layout12;
+    %tmp.39 = dup %tmp.37;
+    %tmp.40 = aputv %tmp.39 12 %tmp.38;
+    putv self :layoutResources %tmp.40;
+}

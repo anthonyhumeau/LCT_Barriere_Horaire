@@ -1,0 +1,282 @@
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 1; ]
+using Toybox.WatchUi;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 2; ]
+using Toybox.Application.Properties;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 3; ]
+using Toybox.Application.Storage;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 5; ]
+class BHMenu extends WatchUi.Menu2{
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 6; ]
+    function initialize() as Void {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 8 ]
+        %tmp.2 = getv ? :Menu2;
+        %tmp.3 = getv const %tmp.2 :initialize;
+        %tmp.4 = null;
+        invoke %tmp.2 %tmp.3(%tmp.4);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 10 ]
+        %tmp.6 = getv ? :Menu2;
+        %tmp.7 = getv const %tmp.6 :setTitle;
+        %tmp.9 = getv ? :Rez;
+        %tmp.10 = getv %tmp.9 :Strings;
+        %tmp.11 = getv %tmp.10 :MenuLabel;
+        invoke %tmp.6 %tmp.7(%tmp.11);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 12 ]
+        %bhActive.1 = local;
+        %tmp.12 = getm $.Toybox.Application.Storage;
+        %tmp.13 = getv const %tmp.12 :getValue;
+        %tmp.14 = "bhActive";
+        %tmp.15 = invoke %tmp.12 %tmp.13(%tmp.14);
+        lputv %bhActive.1 %tmp.15;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 13 ]
+        %bhMaxSaisie.2 = local;
+        %tmp.16 = getm $.Toybox.Application.Storage;
+        %tmp.17 = getv const %tmp.16 :getValue;
+        %tmp.18 = "bhMaxSaisie";
+        %tmp.19 = invoke %tmp.16 %tmp.17(%tmp.18);
+        lputv %bhMaxSaisie.2 %tmp.19;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 14 ]
+        %ssTitre.3 = local;
+        %tmp.20 = "";
+        lputv %ssTitre.3 %tmp.20;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 16 ]
+        %tmp.22 = lgetv %bhActive.1;
+        %tmp.24 = lgetv %bhMaxSaisie.2;
+        %tmp.25 = ne %tmp.22 %tmp.24;
+        bf %tmp.25 @D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHMenu_mc_16_8_else;
+D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHMenu_mc_16_8_if:
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 17 ]
+        %tmp.26 = getm $.Toybox.WatchUi;
+        %tmp.27 = getv const %tmp.26 :loadResource;
+        %tmp.29 = getv ? :Rez;
+        %tmp.30 = getv %tmp.29 :Strings;
+        %tmp.31 = getv %tmp.30 :MenuSousLabelBarriereSuivante;
+        %tmp.32 = invoke %tmp.26 %tmp.27(%tmp.31);
+        lputv %ssTitre.3 %tmp.32;
+        goto @D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHMenu_mc_16_8_end;
+D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHMenu_mc_16_8_else:
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 19 ]
+        %tmp.33 = getm $.Toybox.WatchUi;
+        %tmp.34 = getv const %tmp.33 :loadResource;
+        %tmp.36 = getv ? :Rez;
+        %tmp.37 = getv %tmp.36 :Strings;
+        %tmp.38 = getv %tmp.37 :MenuSousLabelLastBarriere;
+        %tmp.39 = invoke %tmp.33 %tmp.34(%tmp.38);
+        lputv %ssTitre.3 %tmp.39;
+D_humea_Téléchargements_Parents_Conect_IQ_Visual_Studio_eclipse_workspace_LCT_Barriere_Horaire_V1_3_5_source_BHMenu_mc_16_8_end:
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 22 ]
+        %tmp.41 = getv ? :Menu2;
+        %tmp.42 = getv const %tmp.41 :addItem;
+        %tmp.45 = getm $.Toybox.WatchUi;
+        %tmp.46 = getv %tmp.45 :MenuItem;
+        %tmp.43 = newc %tmp.46;
+        %tmp.47 = dup %tmp.43;
+        %tmp.48 = getv const %tmp.47 :initialize;
+        %tmp.49 = dup %tmp.43;
+        %tmp.50 = getm $.Toybox.Application.Properties;
+        %tmp.51 = getv const %tmp.50 :getValue;
+        %tmp.52 = "BH_label";
+        %tmp.53 = getm $.Toybox.Application.Storage;
+        %tmp.54 = getv const %tmp.53 :getValue;
+        %tmp.55 = "bhActive";
+        %tmp.56 = invoke %tmp.53 %tmp.54(%tmp.55);
+        %tmp.57 = getv const %tmp.56 :toString;
+        %tmp.58 = invoke %tmp.56 %tmp.57();
+        %tmp.59 = add %tmp.52 %tmp.58;
+        %tmp.60 = invoke %tmp.50 %tmp.51(%tmp.59);
+        %tmp.62 = lgetv %ssTitre.3;
+        %tmp.63 = getv const %tmp.62 :toString;
+        %tmp.64 = invoke %tmp.62 %tmp.63();
+        %tmp.65 = "suivante";
+        %tmp.66 = null;
+        invoke %tmp.49 %tmp.48(%tmp.60, %tmp.64, %tmp.65, %tmp.66);
+        invoke %tmp.41 %tmp.42(%tmp.43);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 27 ]
+        %tmp.68 = getv ? :Menu2;
+        %tmp.69 = getv const %tmp.68 :addItem;
+        %tmp.72 = getm $.Toybox.WatchUi;
+        %tmp.73 = getv %tmp.72 :MenuItem;
+        %tmp.70 = newc %tmp.73;
+        %tmp.74 = dup %tmp.70;
+        %tmp.75 = getv const %tmp.74 :initialize;
+        %tmp.76 = dup %tmp.70;
+        %tmp.78 = getv ? :Rez;
+        %tmp.79 = getv %tmp.78 :Strings;
+        %tmp.80 = getv %tmp.79 :MenuLabelBarrieres;
+        %tmp.82 = getv ? :Rez;
+        %tmp.83 = getv %tmp.82 :Strings;
+        %tmp.84 = getv %tmp.83 :MenuSousLabelBarrieres;
+        %tmp.85 = "barrieres";
+        %tmp.86 = null;
+        invoke %tmp.76 %tmp.75(%tmp.80, %tmp.84, %tmp.85, %tmp.86);
+        invoke %tmp.68 %tmp.69(%tmp.70);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 32 ]
+        %tmp.88 = getv ? :Menu2;
+        %tmp.89 = getv const %tmp.88 :addItem;
+        %tmp.92 = getm $.Toybox.WatchUi;
+        %tmp.93 = getv %tmp.92 :MenuItem;
+        %tmp.90 = newc %tmp.93;
+        %tmp.94 = dup %tmp.90;
+        %tmp.95 = getv const %tmp.94 :initialize;
+        %tmp.96 = dup %tmp.90;
+        %tmp.98 = getv ? :Rez;
+        %tmp.99 = getv %tmp.98 :Strings;
+        %tmp.100 = getv %tmp.99 :MenuLabelDecalage;
+        %tmp.101 = self;
+        %tmp.102 = getv const %tmp.101 :formatMinute;
+        %tmp.103 = getm $.Toybox.Application.Properties;
+        %tmp.104 = getv const %tmp.103 :getValue;
+        %tmp.105 = "DecalageVague";
+        %tmp.106 = invoke %tmp.103 %tmp.104(%tmp.105);
+        %tmp.107 = getv const %tmp.106 :toNumber;
+        %tmp.108 = invoke %tmp.106 %tmp.107();
+        %tmp.109 = invoke %tmp.101 %tmp.102(%tmp.108);
+        %tmp.110 = "decalage";
+        %tmp.111 = null;
+        invoke %tmp.96 %tmp.95(%tmp.100, %tmp.109, %tmp.110, %tmp.111);
+        invoke %tmp.88 %tmp.89(%tmp.90);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 36 ]
+        %tmp.113 = getv ? :Menu2;
+        %tmp.114 = getv const %tmp.113 :addItem;
+        %tmp.117 = getm $.Toybox.WatchUi;
+        %tmp.118 = getv %tmp.117 :ToggleMenuItem;
+        %tmp.115 = newc %tmp.118;
+        %tmp.119 = dup %tmp.115;
+        %tmp.120 = getv const %tmp.119 :initialize;
+        %tmp.121 = dup %tmp.115;
+        %tmp.123 = getv ? :Rez;
+        %tmp.124 = getv %tmp.123 :Strings;
+        %tmp.125 = getv %tmp.124 :MenuLabelParametresPassageAuto;
+        %tmp.126 = newd 2;
+        %tmp.127 = :enabled;
+        %tmp.129 = getv ? :Rez;
+        %tmp.130 = getv %tmp.129 :Strings;
+        %tmp.131 = getv %tmp.130 :MenuLabelParametresPassageAutoON;
+        %tmp.132 = dup %tmp.126;
+        %tmp.133 = aputv %tmp.132 %tmp.127 %tmp.131;
+        %tmp.134 = :disabled;
+        %tmp.136 = getv ? :Rez;
+        %tmp.137 = getv %tmp.136 :Strings;
+        %tmp.138 = getv %tmp.137 :MenuLabelParametresPassageAutoOFF;
+        %tmp.139 = dup %tmp.133;
+        %tmp.140 = aputv %tmp.139 %tmp.134 %tmp.138;
+        %tmp.141 = "auto";
+        %tmp.142 = getm $.Toybox.Application.Properties;
+        %tmp.143 = getv const %tmp.142 :getValue;
+        %tmp.144 = "isAutomatique";
+        %tmp.145 = invoke %tmp.142 %tmp.143(%tmp.144);
+        %tmp.146 = newd 1;
+        %tmp.147 = :alignment;
+        %tmp.148 = getm $.Toybox.WatchUi;
+        %tmp.149 = getv %tmp.148 :MenuItem;
+        %tmp.150 = getv %tmp.149 :MENU_ITEM_LABEL_ALIGN_LEFT;
+        %tmp.151 = dup %tmp.146;
+        %tmp.152 = aputv %tmp.151 %tmp.147 %tmp.150;
+        invoke %tmp.121 %tmp.120(%tmp.125, %tmp.140, %tmp.141, %tmp.145, %tmp.152);
+        invoke %tmp.113 %tmp.114(%tmp.115);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 43 ]
+        %tmp.154 = getv ? :Menu2;
+        %tmp.155 = getv const %tmp.154 :addItem;
+        %tmp.158 = getm $.Toybox.WatchUi;
+        %tmp.159 = getv %tmp.158 :MenuItem;
+        %tmp.156 = newc %tmp.159;
+        %tmp.160 = dup %tmp.156;
+        %tmp.161 = getv const %tmp.160 :initialize;
+        %tmp.162 = dup %tmp.156;
+        %tmp.164 = getv ? :Rez;
+        %tmp.165 = getv %tmp.164 :Strings;
+        %tmp.166 = getv %tmp.165 :MenuLabelAlarme;
+        %tmp.167 = null;
+        %tmp.168 = "alarmes";
+        %tmp.169 = null;
+        invoke %tmp.162 %tmp.161(%tmp.166, %tmp.167, %tmp.168, %tmp.169);
+        invoke %tmp.154 %tmp.155(%tmp.156);
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 50; ]
+    function formatMinute(time) {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 51 ]
+        %min.1 = local;
+        %tmp.2 = lgetv %time;
+        %tmp.3 = getv const %tmp.2 :toLong;
+        %tmp.4 = invoke %tmp.2 %tmp.3();
+        lputv %min.1 %tmp.4;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 52 ]
+        %hrs.2 = local;
+        %tmp.6 = lgetv %min.1;
+        %tmp.7 = 60;
+        %tmp.8 = div %tmp.6 %tmp.7;
+        lputv %hrs.2 %tmp.8;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 53 ]
+        %tmp.9 = lgetv %min.1;
+        %tmp.11 = lgetv %hrs.2;
+        %tmp.12 = 60;
+        %tmp.13 = mul %tmp.11 %tmp.12;
+        %tmp.14 = sub %tmp.9 %tmp.13;
+        lputv %min.1 %tmp.14;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 54 ]
+        %valueFormat.3 = local;
+        %tmp.16 = lgetv %hrs.2;
+        %tmp.17 = ":";
+        %tmp.18 = add %tmp.16 %tmp.17;
+        %tmp.20 = lgetv %min.1;
+        %tmp.21 = getv const %tmp.20 :format;
+        %tmp.22 = "%02d";
+        %tmp.23 = invoke %tmp.20 %tmp.21(%tmp.22);
+        %tmp.24 = add %tmp.18 %tmp.23;
+        lputv %valueFormat.3 %tmp.24;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 55 ]
+        %tmp.26 = lgetv %valueFormat.3;
+        ret %tmp.26;
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc"; @line = 59; ]
+    function calculTempsMinute(time) {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 61 ]
+        %hrs.1 = local;
+        %tmp.2 = lgetv %time;
+        %tmp.3 = getv const %tmp.2 :substring;
+        %tmp.4 = 0;
+        %tmp.6 = lgetv %time;
+        %tmp.7 = getv const %tmp.6 :find;
+        %tmp.8 = ":";
+        %tmp.9 = invoke %tmp.6 %tmp.7(%tmp.8);
+        %tmp.10 = invoke %tmp.2 %tmp.3(%tmp.4, %tmp.9);
+        %tmp.11 = getv const %tmp.10 :toLong;
+        %tmp.12 = invoke %tmp.10 %tmp.11();
+        lputv %hrs.1 %tmp.12;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 62 ]
+        %min.2 = local;
+        %tmp.14 = lgetv %time;
+        %tmp.15 = getv const %tmp.14 :substring;
+        %tmp.17 = lgetv %time;
+        %tmp.18 = getv const %tmp.17 :find;
+        %tmp.19 = ":";
+        %tmp.20 = invoke %tmp.17 %tmp.18(%tmp.19);
+        %tmp.21 = 1;
+        %tmp.22 = add %tmp.20 %tmp.21;
+        %tmp.24 = lgetv %time;
+        %tmp.25 = getv const %tmp.24 :length;
+        %tmp.26 = invoke %tmp.24 %tmp.25();
+        %tmp.27 = invoke %tmp.14 %tmp.15(%tmp.22, %tmp.26);
+        %tmp.28 = getv const %tmp.27 :toLong;
+        %tmp.29 = invoke %tmp.27 %tmp.28();
+        lputv %min.2 %tmp.29;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 63 ]
+        %tmp.31 = lgetv %hrs.1;
+        %tmp.32 = 60;
+        %tmp.33 = mul %tmp.31 %tmp.32;
+        lputv %hrs.1 %tmp.33;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 64 ]
+        %valueFormat.3 = local;
+        %tmp.35 = lgetv %hrs.1;
+        %tmp.37 = lgetv %min.2;
+        %tmp.38 = add %tmp.35 %tmp.37;
+        lputv %valueFormat.3 %tmp.38;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHMenu.mc" 65 ]
+        %tmp.40 = lgetv %valueFormat.3;
+        ret %tmp.40;
+    }
+}
+<init> {
+}

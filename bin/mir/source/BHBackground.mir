@@ -1,0 +1,53 @@
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 1; ]
+using Toybox.WatchUi;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 2; ]
+using Toybox.Application;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 3; ]
+using Toybox.Graphics;
+[ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 5; ]
+class Background extends WatchUi.Drawable{
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 7; ]
+    protected
+    var mColor;
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 9; ]
+    function initialize() as Void {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc" 10 ]
+        %dictionary.1 = local;
+        %tmp.1 = newd 1;
+        %tmp.2 = :identifier;
+        %tmp.3 = "Background";
+        %tmp.4 = dup %tmp.1;
+        %tmp.5 = aputv %tmp.4 %tmp.2 %tmp.3;
+        lputv %dictionary.1 %tmp.5;
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc" 14 ]
+        %tmp.7 = getv ? :Drawable;
+        %tmp.8 = getv const %tmp.7 :initialize;
+        %tmp.10 = lgetv %dictionary.1;
+        invoke %tmp.7 %tmp.8(%tmp.10);
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 17; ]
+    function setColor(color) {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc" 18 ]
+        %tmp.2 = lgetv %color;
+        putv self :mColor %tmp.2;
+    }
+    [ @file = "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc"; @line = 21; ]
+    function draw(dc) {
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc" 22 ]
+        %tmp.2 = lgetv %dc;
+        %tmp.3 = getv const %tmp.2 :setColor;
+        %tmp.4 = getm $.Toybox.Graphics;
+        %tmp.5 = getv %tmp.4 :COLOR_TRANSPARENT;
+        %tmp.7 = getv ? :mColor;
+        invoke %tmp.2 %tmp.3(%tmp.5, %tmp.7);
+[ "D:\humea\Téléchargements\Parents\Conect IQ\Visual Studio\eclipse-workspace\LCT_Barriere_Horaire_V1.3.5\source\BHBackground.mc" 23 ]
+        %tmp.9 = lgetv %dc;
+        %tmp.10 = getv const %tmp.9 :clear;
+        invoke %tmp.9 %tmp.10();
+    }
+}
+<init> {
+}
